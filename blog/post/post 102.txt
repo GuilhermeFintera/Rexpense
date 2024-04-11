@@ -1,0 +1,69 @@
+Slug:
+/blog/o-reembolso-de-viagens-a-trabalho-precisa-ser-declarado-no-ir
+
+Título:
+O reembolso de viagens a trabalho precisa ser declarado no IR?
+
+Data:
+22/02/2019
+
+Categoria:
+Viagens Corporativas
+
+Img:
+blog_102.jpg
+
+Resumo:
+Entra ano e sai ano, e a declaração do Imposto de Renda sempre gera muitas dúvidas. Uma muito comum é: será que as despesas feitas em viagens de negócios são tributáveis? Na verdade, de acordo com a lei, as despesas realizadas nas viagens corporativas e reembolsadas pelas empresas são isentas do Imposto de Renda…
+
+Meta:
+O campo estava vazio
+
+Conteúdo:
+Entra ano e sai ano, e a <strong>declaração do Imposto de Renda </strong>sempre gera muitas dúvidas. Uma muito comum é: será que as despesas feitas em viagens de negócios são tributáveis?
+
+Na verdade, de acordo com a lei, <strong>as despesas realizadas nas viagens corporativas e reembolsadas pelas empresas são isentas do Imposto de Renda</strong>. Porém, elas precisam, sim, ser declaradas e explicadas, respeitando certas exigências da Receita.
+
+Neste post, a gente explica tudo o que você precisa saber sobre esse tema na hora de emitir sua declaração!
+
+<h2>Abatendo as despesas</h2>
+
+A primeira coisa a ser feita é escolher qual tipo de declaração será utilizada: a simplificada ou a completa. A declaração simplificada é voltada para o contribuinte com poucas despesas a serem deduzidas. É aplicado um desconto padrão em cima de todas as despesas tributáveis. Já a declaração completa é mais recomendada para aqueles que tenham muitos gastos para deduzir, e/ou tenha dependentes. Nessa modalidade, o contribuinte precisa comprovar todas as despesas para dedução para que haja uma restituição maior.
+
+Dentre as despesas que podem ser abatidas, podemos citar aquelas feitas com educação, saúde e previdência (pública ou privada). Também incluem-se aqui os gastos com dependentes, a contribuição patronal à previdência social sobre a remuneração de empregados domésticos e as doações feitas a determinados fundos.
+
+Note que as despesas corporativas não estão incluídas entre as despesas que podem ser deduzidas. Isso porque a legislação manda que a empresa efetue o reembolso desses valores ao profissional, portanto, em tese, elas já foram ressarcidas. A seguir, veremos os requisitos de uma despesa de trabalho para ser considerada isenta.
+
+<h2>Requisitos para a isenção de despesas em viagens corporativas</h2>
+
+Conforme já explicamos no início do post, os reembolsos de despesas corporativas, como os gastos com hospedagem e passagens em viagens de negócios, são isentos de tributação no Imposto de Renda.
+
+Como elas configuram uma ajuda de custo e não têm natureza salarial, não são tributáveis. Entretanto, existem alguns pré-requisitos para que tais gastos recebam isenção.
+
+<h3>O serviço realizado deve ser pontual</h3>
+
+Para que um reembolso de despesa corporativa seja considerado válido, as atividades realizadas pelo profissional no local de destino devem ser pontuais e temporárias, por mais longo que seja o período da viagem.
+
+<h3>O valor do reembolso tem que ser condizente com os valores praticados no mercado</h3>
+
+Para evitar fraudes e garantir que o reembolso tenha validade, é essencial que o valor a ser ressarcido esteja alinhado com a média dos preços praticados no local de destino e seja coerente com o cargo do viajante corporativo.
+
+<h3>Somente as despesas feitas por motivos profissionais são isentas</h3>
+
+Para quem é adepto dos famosos <a href="sua-empresa-pratica-o-bleisure-entenda-as-vantagens-e-desvantagens-dessa-tendencia.html">bleisures</a>, vale ficar atento! Reembolsos de despesas realizadas durante o período de lazer são tributados, já que não se enquadram em despesas de trabalho. Essa regra também vale para as despesas de acompanhantes nesse tipo de viagem.
+
+<h3>As despesas feitas em viagens corporativas precisam de comprovação</h3>
+
+Para serem consideradas isentas, é preciso que as despesas feitas em viagens corporativas sejam devidamente comprovadas por meio de recibos e notas fiscais.
+
+<h2>Como declarar os reembolsos de despesas corporativas</h2>
+
+Fazer a declaração dos reembolsos de despesas feitas em viagens de trabalho no Imposto de Renda é simples.
+
+Para isso, basta entrar na ficha “Rendimentos Isentos e Não-Tributáveis” e buscar a linha “outros”. Nela, é necessário preencher o nome e o CNPJ da empresa que efetuou o reembolso, e também a descrição da despesa, explicando que o valor declarado se refere a diárias e ajuda de custo.
+
+Como você já sabe, essas despesas devem ser comprovadas, e isso pode ser um problema caso a empresa ainda use um sistema manual, pois sempre há risco de extravio ou perda dos recibos, de reembolsos feitos no valor errado, de atrasos no ressarcimento de despesas, entre outros problemas.
+
+Por isso, o ideal é adotar um <strong>sistema voltado para modernizar a gestão de despesas e reembolsos</strong>, como o <a href="../index.html">Rexpense</a>. Com ele, é muito mais prático, simples e seguro inserir os comprovantes em tempo real, armazenar os dados na nuvem para garantir que não se percam, e ainda controlar o que já foi ou não reembolsado. Ao automatizar essas tarefas, o aplicativo praticamente elimina os erros nos processos de reembolso, tornando tudo mais fácil tanto para a empresa como para os profissionais.
+
+Esperamos que este post tenha sido útil. Agora que você já sabe<strong> como declarar os reembolsos de viagens de trabalho em seu Imposto de Renda</strong>, basta ficar atento e não perder o prazo!

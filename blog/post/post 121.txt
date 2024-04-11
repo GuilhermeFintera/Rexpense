@@ -1,0 +1,59 @@
+Slug:
+/blog/o-km-rodado-como-indicador-de-produtividade
+
+Título:
+O Km rodado como indicador de produtividade
+
+Data:
+23/04/2019
+
+Categoria:
+Gestão e Produtividade
+
+Img:
+blog_121.jpeg
+
+Resumo:
+Existem vários indicadores de produtividade importantes para a avaliação de equipes externas, como a quantidade de visitas realizadas a clientes, a pontualidade do vendedor, a duração de cada visita, o feedback dos clientes e prospects sobre o atendimento prestado, entre outros. Porém, um indicador importantíssimo que infelizmente costuma ser negligenciado pelas empresas é o Km rodado!…
+
+Meta:
+A quilometragem rodada pode ser um excelente indicador de produtividade para equipes externas e vamos provar! Leia o artigo completo.
+
+Conteúdo:
+Existem vários indicadores de produtividade importantes para a avaliação de equipes externas, como a quantidade de visitas realizadas a clientes, a pontualidade do vendedor, a duração de cada visita, o feedback dos clientes e prospects sobre o atendimento prestado, entre outros.
+
+Porém, um indicador importantíssimo que infelizmente costuma ser negligenciado pelas empresas é o Km rodado!
+
+Sim! A quilometragem rodada pode ser um excelente indicador de produtividade para equipes externas, e vamos provar! Acompanhe.
+
+<h2>A importância dos indicadores de produtividade</h2>
+
+Existe uma falsa crença em alguns gestores de equipes externas de que o km rodado não é um indicador tão relevante quanto os outros citados no início da postagem e que, por isso, não se deve priorizá-lo. Isso é um erro. A quantidade de visitas feitas e de vendas fechadas são, sim, muito importantes, mas não devem ser as únicas merecedoras da atenção e dos esforços dos gestores.
+
+Para ilustrar, vamos descrever uma situação imaginária em que um dos vendedores da equipe consegue atingir a meta de vendas fazendo apenas cinco visitas, enquanto outro faz trinta e não alcança os mesmos resultados. Isso indica uma anormalidade que deve ser resolvida pelo gestor.
+
+Essa situação pode ser explicada por diversos motivos: ou a carteira de clientes está inadequada, ou o atendimento de um dos vendedores está sendo muito melhor do que o do outro. E também pode ser uma questão de quilometragem!
+
+O problema aqui é: como descobrir se um vendedor está rodando muito e o outro está rodando pouco? Nessa situação hipotética, qual dos dois está sendo mais lucrativo e útil para a empresa? Para chegar a essas respostas, é preciso acompanhar e mensurar os indicadores de produtividade e cruzar os resultados com a quilometragem rodada.
+
+<h2>O cálculo do Km Rodado e a produtividade das equipes</h2>
+
+Para avaliar se sua equipe está no caminho certo para alcançar as metas estipuladas, é preciso medir os resultados regularmente e, então, comparar os melhores com os piores.
+
+Mensurando com frequência indicadores como a quilometragem rodada, as vendas concretizadas e o número de visitas realizadas, é possível comparar o aproveitamento dos membros da equipe, a carteira de clientes de cada vendedor, a localização dos clientes visitados, entre outros fatores que podem afetar os resultados. Assim, o gestor consegue enxergar se, de fato, o funcionário que roda mais é necessariamente o mais dedicado à função, ou se aquele que roda menos é necessariamente acomodado.
+
+As respostas podem não ser tão óbvias quanto parecem, e somente mensurando os indicadores e cruzando os dados obtidos é que o gestor consegue fazer uma análise apurada e chegar a conclusões mais próximas da realidade.
+
+O gestor pode controlar os indicadores de diversas maneiras, seja manualmente, com uma planilha de Excel a ser alimentada regularmente, seja com o auxílio da tecnologia, com ferramentas específicas para facilitar a gestão.
+
+<h2>O reembolso por Km rodado</h2>
+
+Não é possível falar em Km rodado como índice de produtividade sem tocar no assunto do reembolso do combustível utilizado. Isso porque, em geral, costuma-se utilizar o veículo próprio dos vendedores para fazer as visitas e, posteriormente, ressarcir o valor gasto.
+
+O problema é que, se não houver um controle apurado, pode haver dificuldade para calcular o Km rodado para o reembolso, já que falhas, erros de cálculo ou até fraudes não são incomuns. Isso tudo, além de fazer a empresa diminuir sua produtividade, também causa prejuízos.
+
+Para manter o reembolso do combustível por quilômetro rodado sob controle de forma eficiente, é importante contar com um suporte tecnológico especializado. Uma boa dica é utilizar um software capaz de monitorar a rota realizada, como o Rexpense.
+
+A ferramenta oferece uma função de despesa de distância, que utiliza o recurso de geolocalização entre os pontos de partida e chegada do colaborador para determinar o valor de deslocamento, por quilometro ou milha, além da moeda a ser utilizada.
+
+O vendedor externo tem autonomia para solicitar o reembolso diretamente pelo app, e o gestor pode aprovar a despesa online e com segurança, evitando atrasos, erros e burocracias desnecessárias. O processo de reembolso é totalmente seguro e confiável, e permite maior controle sobre as equipes externas.

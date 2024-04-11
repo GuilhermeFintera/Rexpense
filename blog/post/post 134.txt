@@ -1,0 +1,68 @@
+Slug:
+/blog/digitalizar-comprovantes-para-reembolso-de-despesas-ficou-mais-simples-com-o-rexpense
+
+Título:
+Digitalizar comprovantes para reembolso de despesas ficou mais simples com o Rexpense
+
+Data:
+03/06/2019
+
+Categoria:
+Despesas e Reebolsos Corporativos
+
+Img:
+digitalizarcomprovantes-768x384.jpeg
+
+Resumo:
+As notas fiscais são os documentos mais utilizados pelos colaboradores para comprovar as despesas feitas em nome da empresa na hora de solicitar o reembolso. Elas trazem as informações referentes aos gastos corporativos, como o valor desembolsado, o horário da compra, e o nome e o CNPJ do local em que a despesa foi feita…
+
+Meta:
+Entenda como a tecnologia permite armazenar os comprovantes de despesas online, digitalizando-os e enviando-os para um sistema que opera na nuvem.
+
+Conteúdo:
+As notas fiscais são os documentos mais utilizados pelos colaboradores para comprovar as despesas feitas em nome da empresa na hora de solicitar o reembolso. Elas trazem as informações referentes aos gastos corporativos, como o valor desembolsado, o horário da compra, e o nome e o CNPJ do local em que a despesa foi feita. Os comprovantes também descriminam os produtos ou serviços consumidos, o que é útil para a empresa verificar se não houve consumo de itens não passíveis de ressarcimento, como as bebidas alcoólicas, por exemplo.
+
+O problema é que armazenar uma enorme quantidade de notinhas e cupons dá um trabalhão, e, além de demandar muito espaço, ainda há o risco de extravio. Como as notas fiscais são impressas em papel termossensível, há sempre o perigo de desbotarem e se inutilizarem para fins de comprovação. Informações armazenados de maneira inadequada podem perder seu valor contábil e causar problemas fiscais para a empresa. Todas essas questões dificultam o processo de reembolso, daí a importância de armazená-los da maneira correta. Aí é que entra a digitalização!
+
+Hoje, a tecnologia permite armazenar os comprovantes de despesas online, digitalizando-os e enviando-os para um sistema que opera na nuvem. É o fim das notas fiscais perdidas, rasgadas ou apagadas! Isso permite organizar todos os comprovantes no mesmo lugar, preservando os dados contidos neles.
+<h2>
+Os documentos digitalizados têm validade legal
+</h2>
+
+A legislação brasileira regulamenta a digitalização de documentos. Desde 2016 os arquivos digitalizados têm o mesmo valor dos impressos, contanto que sejam certificados pela Infraestrutura de Chaves Públicas Brasileira (ICP-Brasil).
+
+Dessa forma, as notas fiscais digitalizadas servem como registro contábil, permitindo a redução da papelada armazenada nas empresas por anos e anos.
+<h2>
+A tecnologia como aliada para armazenar as notas fiscais
+</h2>
+
+Atualmente, atingimos um patamar em que os smartphones já contam com câmeras de alta resolução, e há dezenas de opções de aplicativos criados especialmente para digitalizar arquivos com rapidez, como o CamScanner, o Adobe Scan, dentre outras alternativas.
+
+Na hora de digitalizar usando o celular, é preciso tomar algumas precauções, como realizar o processo em um ambiente iluminado e se assegurar de que as informações saiam legíveis. Feito isso, é só subir o documento em formato digital para o sistema do Rexpense, diretamente pelo App. É possível enviar o comprovante em tempo real para solicitar o reembolso, de uma forma bem prática.
+<h2>
+As vantagens da digitalização dos comprovantes
+</h2>
+<h3>
+Acesso fácil e remoto
+</h3>
+
+A digitalização dos comprovantes permite que o gestor acesse a qualquer momento as informações que precisa conferir. A mesma liberdade vale para o colaborador, que pode enviar a notinha digitalizada na mesma hora, usando o celular. Essa mobilidade confere agilidade à rotina do seu negócio.
+<h3>
+Prevenção de extravios
+</h3>
+
+Outra vantagem é que, ao digitalizar e armazenar na nuvem, os comprovantes ficam seguros, com garantia da integridade dos dados. Isso evita que o colaborador perca a nota sem querer, que haja algum extravio interno ou até que o setor financeiro esqueça de realizar algum reembolso ou o faça no valor errado, já que todas as informações ficam centralizadas, disponíveis para conferência. É possível, inclusive, evitar fraudes que trariam prejuízos à empresa.
+<h3>
+Melhor controle dos dados
+</h3>
+
+Ao optar pela digitalização de documentos, é possível controlar melhor quem tem acesso a quais tipos de dados, assim, as informações só estarão visíveis para quem está envolvido nos projetos. Essa segurança é fundamental, principalmente quando diz respeito aos dados pessoais de colaboradores, como é o caso dos comprovantes de despesas corporativas.
+<h3>
+Economia de espaço físico
+</h3>
+
+Por fim, uma grande vantagem da digitalização de notas fiscais para comprovação de despesas é a economia de espaço que, caso contrário, seria gasto com a armazenagem dos documentos. Como eles ficam salvos na nuvem, eliminam a necessidade de se preocupar com isso, otimizando o espaço da empresa.
+
+Uma das funções do gestor corporativo é otimizar o uso dos recursos da empresa, e uma ótima maneira de fazer isso é eliminando a papelada e a burocracia envolvidas nos processos de reembolsos de despesas, poupando tempo da equipe, evitando erros de cálculo e ganhando produtividade. Por isso, digitalizar os comprovantes e automatizar as tarefas são passos essenciais para modernizar essa gestão.
+
+Nessa empreitada, é bom poder contar com um app que permita centralizar as informações em um só local e manter as despesas corporativas sob controle. Com o Rexpense, gerenciar as despesas, adiantamentos e reembolsos corporativos é simples e seguro! Quer saber mais? <a href="../index.html">Clique aqui!</a>

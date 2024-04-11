@@ -1,0 +1,61 @@
+Slug:
+/blog/conheca-os-sistemas-que-se-integram-ao-rexpense
+
+Título:
+Conheça os sistemas que se integram ao Rexpense
+
+Data:
+23/05/2019
+
+Categoria:
+Gestão e Produtividade
+
+Img:
+blog_130.jpeg
+
+Resumo:
+Que o Rexpense é muito útil para controlar as despesas corporativas não há a menor dúvida. Mas você sabia que, além disso, o software conta com o diferencial de se integrar a diversos outros sistemas? Isso mesmo! O Rexpense foi desenvolvido para aceitar integrações com outros sistemas utilizados pela empresa contratante para simplificar sua rotina...
+
+Meta:
+Que o Rexpense é muito útil para controlar as despesas corporativas, não há a menor dúvida. Mas você sabia que o software se integra a diversos outros sistemas?
+
+Conteúdo:
+Que o Rexpense é muito útil para controlar as despesas corporativas não há a menor dúvida. Mas você sabia que, além disso, o software conta com o diferencial de se integrar a diversos outros sistemas? Isso mesmo!
+
+O Rexpense foi desenvolvido para aceitar integrações com outros sistemas utilizados pela empresa contratante para simplificar sua rotina. Sua poderosa API permite que ele converse com uma série de ferramentas, tornando a gestão muito mais fluida.  Além disso, ele também pode ser integrado utilizando Webhooks, tornando a comunicação ainda mais dinâmica e eficiente.
+
+Quer saber quais são os sistemas que têm integração com o Rexpense? Confira abaixo!
+
+<h2>Uber, 99Táxis e Cabify</h2>
+
+Os aplicativos de mobilidade urbana mais conhecidos no mercado são perfeitamente integráveis com o Rexpense. Essa conveniência permite o tracking automático de corridas, a criação de despesas com deslocamentos via e-mail e muito mais praticidade na prestação de contas, já que as corridas ficam registradas no app, sem chance de erros ou fraudes.
+
+Com a possibilidade de integração com os sistemas da Uber, Cabify e 99Táxis, o Rexpense permite automatizar as despesas com deslocamento dos colaboradores que precisem participar de reuniões externas, fazer visitas a clientes, participar de treinamentos, dentre outros compromissos profissionais. A integração do sistema a aplicativos de corridas particulares permite que a corrida encerrada vire automaticamente uma solicitação de reembolso.
+
+Por sinal, o aplicativo tem uma funcionalidade que ajuda ainda mais a manter esse controle: o recurso de despesas por distância, que é muito simples de usar: no início da corrida, o colaborador deve marcar o local de partida e, no fim, deve apontar o lugar de chegada. Assim, a ferramenta consegue determinar o valor de deslocamento, por quilômetro ou por milha, por meio da geolocalização entre os pontos de partida e chegada. É possível configurar a moeda a ser cobrada (real ou dólar) e até trocar mensagens dentro do aplicativo, facilitando a comunicação entre os times.
+
+<h2>Myfinance</h2>
+
+O Myfinance é o módulo financeiro do sistema de gestão empresarial da Nexaas. O software permite organizar os recebíveis, se integrar automaticamente ao sistema do banco, classificar os lançamentos e manter a saúde financeira da empresa em dia. E ele também se conecta ao Rexpense perfeitamente!
+
+O sistema do Rexpense pode ser integrado ao contas a pagar da empresa, fazendo com que cada solicitação de reembolso aprovada pelo aplicativo se torne automaticamente uma conta a pagar, evitando erros e atrasos nos pagamentos relativos ao ressarcimento de despesas corporativas. Isso facilita muito a rotina do setor financeiro, economizando tempo e evitando problemas.
+
+<h2>PSOffice</h2>
+
+O <a href="https://www.psoffice.com.br/index.html">PSOffice</a> é uma plataforma voltada para a gestão financeira de projetos, criada especialmente para atender empresas que prestam serviços de consultoria. O principal diferencial é o suporte total oferecido aos processos essenciais, como o gerenciamento de cronograma, a alocação de recursos e o controle dos custos e receitas.
+
+São vários módulos e funcionalidades para tornar a gestão de projetos mais dinâmica e inteligente. Tudo isso levo o PSOffice a ser a solução ideal para automatizar processos e integrar as diferentes áreas das empresas prestadoras de serviços.
+
+E adivinhe só: ele também se integra com o sistema do Rexpense, o que facilita a gestão de despesas em projetos.
+
+<h2>Pipedrive</h2>
+
+O <a href="https://www.pipedrive.com/pt">Pipedrive</a> é um sistema de CRM moderno e inovador, com vários diferenciais frente aos concorrentes! Ele apresenta um funil de vendas totalmente visual, permitindo que o gestor enxergue melhor o cenário, saiba exatamente onde deve concentrar suas forças e descubra quais ações são necessárias para fechar mais vendas.
+
+Todo o histórico dos leads fica centralizado em um único local, e é facilmente acessível usando qualquer dispositivo com acesso à internet. É possível controlar todas as conversas relacionadas a vendas, e saber quem abriu os e-mails enviados em poucos cliques. E também dá para economizar muito tempo usando os modelos disponibilizados.
+
+Além de todas as inovações, o Pipedrive também tem o diferencial de se integrar ao Rexpense. Isso mesmo: as atividades criadas no Pipedrive podem automaticamente se tornar uma solicitação de despesa no sistema de reembolsos.
+
+A integração Pipedrive + Rexpense automatiza o reembolso e controle de despesas referentes ao atendimento de leads, e é possível escolher quais despesas (como almoços com possíveis clientes, por exemplo) vão virar uma despesa automática, simplificando muito o processo.
+
+Todas essas integrações permitem que o Rexpense seja uma solução extremamente versátil, e imprescindível para quem precisa manter as despesa corporativas sob controle.

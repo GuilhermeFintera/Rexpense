@@ -1,0 +1,69 @@
+Slug:
+/blog/avalie-o-desempenho-de-suas-equipes-externas
+
+Título:
+Avalie o desempenho de suas equipes externas
+
+Data:
+02/05/2019
+
+Categoria:
+Gestão e Produtividade
+
+Img:
+blog_124.jpeg
+
+Resumo:
+Quem trabalha com equipes externas precisa garantir que os colaboradores do time mantenham a produtividade e a eficiência. Para isso, é necessário tomar decisões e elaborar planejamentos com base em indicadores de desempenho especificamente voltados para as equipes de campo. Afinal, esses indicadores ajudam a extrair informações importantes e aumentar a eficácia das estratégias e…
+
+Meta:
+Quais os principais indicadores que o gestor deve utilizar para avaliar o desempenho de suas equipes externas? Confira!
+
+Conteúdo:
+Quem trabalha com equipes externas precisa garantir que os colaboradores do time mantenham a produtividade e a eficiência. Para isso, é necessário tomar decisões e elaborar planejamentos com base em indicadores de desempenho especificamente voltados para as equipes de campo. Afinal, esses indicadores ajudam a extrair informações importantes e aumentar a eficácia das estratégias e ações rumo ao sucesso do negócio.
+
+A questão que fica é a seguinte: quais são os principais indicadores que o gestor deve utilizar para avaliar o desempenho de suas equipes externas? Neste post, a gente explica!
+
+<h2>Por que você deve utilizar os indicadores de desempenho</h2>
+
+Como você já deve estar ciente se acessa nosso blog com frequência, os indicadores de desempenho são as métricas resultantes da análise dos dados de gestão, que apontam se uma atividade ou processo está sendo eficiente.
+
+Eles são extremamente úteis para avaliar o desempenho de profissionais e equipes, fornecendo a visão de que o gestor corporativo necessita para visualizar melhor os processos e alinhá-los aos objetivos e metas.
+
+É extremamente recomendável que os gestores adotem o uso dos indicadores de desempenho em sua estratégia, já que eles fornecem as informações necessárias sobre cada etapa das tarefas executadas, proporcionam maior precisão para a tomada de decisões, trazem mais eficiências às atividades e processos, permitem o monitoramento das atividades, promovem mais agilidade, permitem a realização de dashboards e relatórios e, de um modo geral, acabam se tornando a medida da excelência de um negócio.
+
+<h2>Os principais indicadores de desempenho para equipes externas</h2>
+
+<h3>Média de atendimentos por equipe</h3>
+
+Esse indicador, como você deve imaginar, aponta quantos atendimentos, em geral, podem ser feitos pela equipe externa em um dado período. Para calculá-lo, deve-se tirar a média da quantidade de ordens de serviço registradas no período que se quer mensurar, que pode ser diário, semanal, mensal, anual, ou de acordo com a necessidade da empresa.
+
+Acompanhando a média de atendimentos realizados, o gestor consegue avaliar se seu time está dentro dos parâmetros estipulados e cumprindo as metas de atendimento.
+
+<h3>Tempo médio de atendimento</h3>
+
+O tempo médio de atendimento é definido pela divisão do total de tempo gasto para realizar todos os atendimentos dentro de um período pelo total de atendimentos realizados. A partir desse número, é possível verificar se os tempos registrados estão de acordo com a meta e, caso contrário, agir para que isso seja otimizado.
+
+<h3>Uso de recursos da empresa</h3>
+
+Muitas vezes, as equipes externas precisam utilizar recursos materiais da empresa para realizar suas atividades, e o gasto de materiais em atendimentos externos pode ser acompanhado por indicadores.
+
+No caso de itens descartáveis, que são usados apenas com um cliente, é possível determinar o gasto médio contabilizando quantos produtos foram utilizados em determinado período. Já para itens de maior valor, que podem ser reutilizados, é possível medir o uso dos recursos acompanhando o tempo médio de vida útil do produto. Assim, é possível descobrir que equipes ou profissionais estão fazendo melhor uso dos materiais disponibilizados.
+
+<h3>Ociosidade</h3>
+
+Quando a gestão é ineficiente, é muito comum que as equipes externas fiquem ociosas durante certos períodos, o que gera custos desnecessários para a empresa. Por isso, é extremamente importante acompanhar o índice de ociosidade dos times.
+
+Para calcular esse indicador, basta somar o total de horas trabalhadas e de horas gastas em deslocamento em um determinado período, e dividir o resultado pelo total de horas contratadas. Com base nisso, é possível pensar em medidas para reduzir o tempo ocioso.
+
+<h3>Tempo médio de deslocamento</h3>
+
+Esse indicador é determinado pela divisão do tempo total empregado em deslocamentos pelo número de atendimentos realizados, e auxiliar o gestor corporativo a mensurar o aproveitamento do período de trabalho, medir a produtividade do time e indicar pontos de melhoria, ou seja, formas de otimizar o tempo dos profissionais sem prejudicar a qualidade do serviço.
+
+<h3>Alcance de metas e cumprimento de prazos</h3>
+
+Por fim, o cumprimento de metas e de prazos também são essenciais para avaliar o desempenho de uma equipe externa. É possível acompanhar o percentual de visitas realizadas dividindo o total de atendimentos pela meta estipulada para aquele período.
+
+Já o índice de atraso pode ser calculado dividindo o total de atendimentos realizados após o prazo determinado pelo número total de atendimentos. Assim  é possível visualizar quais equipes e profissionais estão perdendo seus prazos com mais frequência, e tomar medidas para reverter a situação.
+
+Os indicadores de desempenho fornecem dados que ajudam a avaliar o desempenho de cada profissional ou equipe externa, e ajudam o gestor a compreender quais pontos merecem sua atenção imediata para melhorar a performance. Por isso, não deixe de acompanhar essas métricas em sua empresa. Essa é a maneira mais eficaz de manter a saúde dos negócios!

@@ -1,0 +1,59 @@
+Slug:
+/blog/por-que-voce-precisa-sair-da-planilha-na-gestao-por-quilometragem
+
+Título:
+Por que você precisa sair da planilha na gestão por quilometragem?
+
+Data:
+03/06/2019
+
+Categoria:
+Gestão e Produtividade
+
+Img:
+blog_133.jpeg
+
+Resumo:
+As empresas que contam com equipes externas, ou lidam frequentemente com situações em que os profissionais precisam se deslocar para reuniões, treinamentos ou visitas a clientes usando veículo próprio, devem manter sob controle os reembolsos por quilometragem. Você sabe exatamente o que é o reembolso de quilometragem e como ele funciona? E que a planilha não é a…
+
+Meta:
+Você sabe exatamente o que é o reembolso de quilometragem e como ele funciona? Tire suas dúvidas e saiba como abandonar de vez as planilhas de quilometragem.
+
+Conteúdo:
+As empresas que contam com equipes externas, ou lidam frequentemente com situações em que os profissionais precisam se deslocar para reuniões, treinamentos ou visitas a clientes usando veículo próprio, devem manter sob controle os reembolsos por quilometragem.
+
+Você sabe exatamente o que é o reembolso de quilometragem e como ele funciona? E que a planilha não é a…As empresas que contam com equipes externas, ou lidam frequentemente com situações em que os profissionais precisam se deslocar para reuniões, treinamentos ou visitas a clientes usando veículo próprio, devem manter sob controle os reembolsos por quilometragem.Você sabe exatamente o que é o reembolso de quilometragem e como ele funciona? E que a planilha não é a melhor maneira de realizar esse controle? Neste post a gente tira as principais dúvidas e dá uma dica imperdível para você abandonar de vez as planilhas de quilometragem e melhorar a sua gestão!
+
+<h2>
+O que é e como funciona o reembolso de quilometragem?
+</h2>
+
+O reembolso de quilometragem deve ser feito quando o colaborador utiliza veículo próprio para exercer suas funções. Nesses casos, a empresa é responsável pelas despesas feitas em seu nome, e muitas delas optam por pagar um valor determinado por quilômetro rodado.
+
+Para que o reembolso seja feito, o profissional deve apresentar a quilometragem rodada durante o deslocamento para que ela seja multiplicada pelo valor estipulado de R$/Km.
+
+<h2>
+Por que não realizar o controle da quilometragem via planilhas
+</h2>
+
+Em muitas companhias esse controle da quilometragem rodada se dá manualmente, por planilhas de Excel.
+
+As planilhas de km ajudam os gestores a descobrir o valor a ser ressarcido mas, por ser elaborada manualmente, ela pode conter erros de cálculo e de digitação, além de tornar o processo mais lento e muito pouco prático. Gasta-se tempo e energia demais na função, que está mais propensa a falhas manuais, prejuízos e retrabalho.
+
+Isso tudo acaba dificultando muito o controle de custos, além de reduzir a produtividade da organização, já que compilar todos os dados necessários na planilha leva tempo.
+
+É claro que utilizar os meios manuais ainda é melhor do que nada, e pode auxiliar a empresa no que diz respeito à taxa do R$/km. Porém, para uma gestão de despesas mais inteligente e precisa, o melhor a se fazer é calcular o reembolso da forma mais segura: usado um aplicativo específico para a gestão de despesas e reembolsos corporativos, como o Rexpense!
+
+<h2>Rexpense: a solução ideal para gerenciar a quilometragem rodada</h2>
+
+Utilizar um aplicativo como o Rexpense para administrar as despesas corporativas é uma ótima ideia, por vários motivos. Um deles diz respeito à acessibilidade e à praticidade. O Rexpense permite que o próprio colaborador possa anexar comprovantes, transmitir a geolocalização, lançar a quilometragem percorrida em tempo real e solicitar reembolsos. Também é possível acompanhar o status de cada despesa registrada. Trata-se de um processo muito mais prático, e que oferece mais mobilidade e conveniência tanto para a empresa quanto para as equipes.
+
+Por sinal, o Rexpense tem um superdiferencial: o recurso de despesas por distância, que é muito fácil de usar: no início do deslocamento, o colaborador deve marcar o local de partida e, ao final, também deve apontar o lugar de chegada. Assim, a ferramenta consegue determinar automaticamente o valor de deslocamento, por quilômetro ou por milha, por meio da geolocalização entre os pontos de partida e chegada.
+
+É possível configurar a moeda a ser cobrada, que pode ser real ou dólar, e até enviar mensagens para outras pessoas dentro do próprio aplicativo, agilizando a comunicação entre as equipes.
+
+O processo é muito simples e preciso, além de totalmente seguro. Tanto o profissional quanto o gestor da equipe conseguem acessar o valor de cada despesa em tempo real. Além disso, há mais controle e proteção na conferência da quilometragem rodada. Assim, o reembolso é feito da forma correta, sem fraudes ou erros e, principalmente, sem risco de prejudicar o funcionário ou a empresa.
+
+Como você pode ver, diferentemente do que acontece com as planilhas para controle de quilometragem, o aplicativo do Rexpense viabiliza um gerenciamento constante das despesas, uma vez que não é preciso esperar o funcionário voltar de uma viagem corporativa, reunião com clientes ou visita técnica para saber de antemão quanto foi gasto. Tudo é exibido em tempo real, facilitando a gestão e o planejamento.
+
+Com o Rexpense, gerenciar as despesas com reembolsos por quilômetro rodado se torna uma tarefa muito mais prática. Quer saber mais sobre as vantagens? <a href="../index.html">Clique aqui!</a>

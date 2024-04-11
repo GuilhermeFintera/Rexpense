@@ -1,0 +1,85 @@
+Slug:
+/blog/conheca-algumas-ferramentas-que-simplificam-a-gestao-das-equipes-externas
+
+Título:
+Conheça algumas ferramentas que simplificam a gestão das equipes externas
+
+Data:
+16/05/2019
+
+Categoria:
+Gestão e Produtividade
+
+Img:
+blog_127.jpeg
+
+Resumo:
+Cada vez mais as empresas estão trabalhando com equipes externas para realizar diversas funções, como representações de vendas, consultorias e até mesmo profissionais em trabalho remoto. Para que haja um controle e as equipes mantenham um bom desempenho, porém, é essencial ter uma gestão eficiente. E a tecnologia pode auxiliar nessa empreitada! Utilizar aplicativos móveis…
+
+Meta:
+Aplicativos móveis podem ser extremamente úteis para melhorar a comunicação e organizar a rotina quando o assunto é trabalho remoto. Conheça alguns deles!
+
+Conteúdo:
+Cada vez mais as empresas estão trabalhando com equipes externas para realizar diversas funções, como representações de vendas, consultorias e até mesmo profissionais em trabalho remoto. Para que haja um controle e as equipes mantenham um bom desempenho, porém, é essencial ter uma gestão eficiente. E a tecnologia pode auxiliar nessa empreitada!
+
+Utilizar aplicativos móveis pode ser extremamente útil para melhorar a comunicação, organizar a rotina e dar um up na produtividade. Quer saber quais são as ferramentas e aplicativos que consideramos imperdíveis para simplificar a gestão das equipes externas? Confira a seguir as nossas escolhas!
+
+<h2>Aplicativos do Google</h2>
+
+O Google oferece uma série de alternativas para facilitar a rotina, e algumas delas funcionam muito bem para a gestão de equipes externas. Um bom exemplo é o Google Agenda, uma agenda que funciona na nuvem e ajuda a manter os compromissos sob controle, permitindo enviar convites, marcar reuniões e compartilhar os agendamentos com todos os membros do time.
+
+Outra boa escolha é o Google Drive, que é uma mão na roda para facilitar o compartilhamento de arquivos entre os colaboradores. Isso é essencial quando se trata de equipes externas, pois torna possível manter todos os documentos importantes à mão, ao alcance de um clique. Tudo pode ser acessado remotamente por um dispositivo móvel. Assim, os profissionais que atuam externamente não precisam se preocupar com mídias físicas como pen drives, HDs externos, entre outros.
+
+Dependendo do setor em que a empresa atue e das tarefas realizadas pelas equipes externas, há outros aplicativos do Google que podem facilitar a rotina. Vale a pesquisa!
+
+<h2>Trello</h2>
+
+O Trello é um dos organizadores de tarefas mais populares. Ele é útil principalmente para empresas que trabalham com projetos, porque, com a ferramenta, é possível controlar as atividades que estão em andamento, delegar tarefas, determinar que profissionais têm acesso a cada etapa e enxergar o progresso como um todo.
+
+Sua interface é amigável, e o app conta com recursos visuais para tornar o trabalho mais dinâmico. É possível subir arquivos, fazer checklists, solicitar alterações e fazer comentários. Além do aplicativo para celular, também existe a versão para desktop, que pode ser sincronizada com qualquer dispositivo utilizado. 
+
+<h2>Evernote</h2>
+
+O Evernote é a verdadeira evolução do bom e velho bloco de notas, e é perfeito para anotações rápidas em eventos, visitas a clientes e reuniões. Todas as notas ficam armazenadas na nuvem e podem ser acessadas a partir de qualquer aparelho, a qualquer momento.
+
+Usando uma ferramenta como essa, o colaborador não corre o risco de “perder” uma ideia brilhante, porque é fácil tomar notas, adicionar arquivos, anexar imagens, dentre outras funcionalidades.
+
+<h2>Slack</h2>
+
+o Slack é um dos aplicativos mais populares quando o assunto é comunicação com equipes externas. Ele nada mais é do que uma ferramenta de mensagens instantâneas, porém com maior foco no âmbito corporativo.
+
+Com o Slack, é possível criar grupos com objetivos específicos e transferir arquivos. Ele também conta com um motor de busca para encontrar um tema mais rapidamente. O Slack está disponível para diferentes plataformas, como Android, iPhone e a versão desktop. Tudo para garantir uma comunicação fluida e sem entraves!
+
+<h2>Bitrix</h2>
+
+O Bitrix é uma das plataformas de gestão de equipes mais completas do mercado, e pode ser utilizado para controlar projetos diversos. Trata-se de uma espécie de mídia social voltada para o mundo corporativo, e conta com uma série de ferramentas para melhorar a comunicação interna, para gerenciar tarefas e compartilhar arquivos entre os membros do time.
+
+Além disso, a plataforma pode ser utilizada com foco em gestão de relacionamento com o consumidor, e conta com funções como rastreamento de contato, gestão de vendas, troca de mensagens, planejamento de atividades e calendários.
+
+A plataforma é gratuita para equipes pequenas, com menos de doze colaboradores. Além de contar com integração com o e-mail corporativo, o Bitrix também tem um chat que os membros podem utilizar para se comunicar entre si. Essa possibilidade de centralizar diversas soluções em um só lugar é um dos principais diferenciais, sem dúvida!
+
+<h2>IDoneThis</h2>
+
+O IDoneThis é uma plataforma colaborativa que transforma as informações registradas em relatórios de maneira simples, e  gerencia os relatórios das atividades executadas pelas equipes. Ele envia e-mails para os usuários informando quais foram as tarefas concluídas durante o dia e, no dia seguinte, disponibiliza um resumo do desempenho de cada membro do time.
+
+No caso de equipes externas, em que o bom desempenho e a alta produtividade são essenciais para o sucesso, contar com uma solução como essa é extremamente útil! Hoje, grandes corporações internacionais já fazem uso dessa ferramenta, como é o caso do Shopify, do Mozilla, do TripAdvisor e do Twitter.
+
+<h2>Basecamp</h2>
+
+O Basecamp é um gerenciador de projetos online muito eficiente, simples de usar e cheio de funcionalidades!
+
+Além de monitorar as atividades, as mensagens, os documentos e os compromissos da equipe, a ferramenta também permite delegar funções, determinar prazos para as tarefas, revisar o trabalho entregue e avaliar o fluxo. É possível utilizar o Basecamp no navegador ou baixá-lo no celular, o que facilita muito o trabalho das equipes externas.
+
+<h2>Rexpense</h2>
+
+Muitas vezes, os membros de equipes externas acabam arcando com certos custos, como combustível (em caso de veículo próprio), alimentação, conta de um almoço com cliente, entre outras situações. Nesses casos, as despesas feitas a trabalho devem ser reembolsadas pela empresa, mediante a apresentação de comprovantes.
+
+Para otimizar a gestão de despesas e reembolsos, recomenda-se adotar um software de gestão de despesas corporativas, como o <a href="../index.html">Rexpense</a>. A ferramenta permite que o gestor controle as despesas e as verbas em tempo real, aprove solicitações pelo aplicativo e conte com uma série de outras funcionalidades.
+
+O Rexpense também conta com um recurso de despesas por quilometragem, que utiliza a geolocalização entre os pontos de partida e chegada do colaborador para definir o valor de deslocamento e facilitar o controle.
+
+Quer conhecer todas as funções do Rexpense? <a href="../index.html">Clique aqui</a> e saiba tudo o que ele pode fazer pela sua empresa.
+
+Como você pode ver, a tecnologia pode ser a melhor amiga do gestor corporativo! Além dessas listadas acima, existem várias opções de aplicativos que ajudam a otimizar a gestão de equipes externas.
+
+Você já usa algum deles em sua empresa? Teria algum para acrescentar à lista?

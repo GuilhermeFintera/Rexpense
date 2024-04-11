@@ -1,0 +1,61 @@
+Slug:
+/blog/saiba-por-que-o-rexpense-e-o-melhor-aplicativo-para-gestao-de-despesas-corporativas
+
+Título:
+Saiba por que o Rexpense é o melhor aplicativo para gestão de despesas corporativas
+
+Data:
+13/05/2019
+
+Categoria:
+Gestão e Produtividade
+
+Img:
+blog_126.jpeg
+
+Resumo:
+A gestão financeira tem um papel crucial para o sucesso de uma empresa. Não é de se espantar, portanto, que os gestores financeiros tenham tamanha responsabilidade para manter os negócios saudáveis. Há muitas demandas e atividades diárias, muitos detalhes para se preocupar, e qualquer falha pode representar um grande prejuízo. Daí a importância da capacidade…
+
+Meta:
+Além de simplificar a administração das despesas, reembolsos e adiantamentos corporativos, o Rexpense opera 100% online. Conheça suas funcionalidades!
+
+Conteúdo:
+A gestão financeira tem um papel crucial para o sucesso de uma empresa. Não é de se espantar, portanto, que os gestores financeiros tenham tamanha responsabilidade para manter os negócios saudáveis.
+
+Há muitas demandas e atividades diárias, muitos detalhes para se preocupar, e qualquer falha pode representar um grande prejuízo. Daí a importância da capacidade de manter as despesas e reembolsos corporativos organizados e sob controle.
+
+<h2>A gestão financeira e o controle de despesas</h2>
+
+Dentre as funções do gestor financeiro estão atualizar o contas a pagar da empresa regularmente, para poder planejar o orçamento de acordo com o cenário. Para que isso seja viável, é essencial providenciar os recursos para reembolsar as despesas de trabalho dos colaboradores e controlar essas despesas, estipulando regras e limites de acordo com as políticas da empresa.
+
+Também faz parte de seu escopo otimizar os recursos da empresa. Uma ótima maneira de fazer isso é eliminando a papelada e a burocracia envolvidas nos processos internos e, assim, poupando tempo de sua equipe e ganhando produtividade.
+
+Ao invés de os profissionais terem que perder tempo digitando milhares de documentos, armazenando comprovantes, conferindo papéis, liberando pagamentos e organizando planilhas de despesas, é possível automatizar certas tarefas recorrentes. Assim, o potencial do time pode ser mais bem aproveitado.
+
+Com tantas variáveis envolvidas no processo de reembolso de despesas corporativas, é natural que falhas humanas aconteçam. Mas não precisa ser sempre assim. Para resolver esse problema e facilitar a rotina do gestor financeiro, o ideal é contar com uma ferramenta especializada, como o Rexpense, o melhor aplicativo de controle financeiro disponível no mercado.
+
+O Rexpense tem diversas funcionalidades. Além de simplificar a administração das despesas, reembolsos e adiantamentos corporativos, o software é completamente seguro e opera 100% online, podendo ser acessado a qualquer momento, de qualquer lugar e com qualquer dispositivo conectado à internet.
+
+Quer saber por que o Rexpense é o melhor aplicativo para gestão de despesas corporativas? A seguir, a gente te dá boas razões para isso!
+
+<h2>Por que escolher o Rexpense para gerenciar as despesas corporativas</h2>
+
+O Rexpense é um software inovador, porque proporciona ao gestor financeiro uma visão precisa e em tempo real das despesas corporativas. Todo o controle financeiro pode ser realizado online, com total segurança e sem risco de extravio de dados. É possível acompanhar o valor adiantado por empresa e usuário, checar o quanto da verba já foi gasto e em quais despesas, entre outras possibilidades.
+
+Também é possível acompanhar o status de cada despesa registrada. Inclusive, existe a opção de receber notificação sempre que houver uma alteração na situação de alguma despesa ou quando um colaborador fizer uma solicitação nova.
+
+Além disso, o software oferece integração via API com as melhores ferramentas de CRM do mercado, com softwares de gestão de projetos e até mesmo com os grandes ERPs. Ele também consegue se integrar com sistemas de gestão financeira, como o MyFinance. Toda essa versatilidade proporciona uma gestão fluida, ininterrupta e à prova de erros, e permite que o gestor tenha controle financeiro da empresa de ponta a ponta.
+
+Um grande diferencial do Rexpense perante outros aplicativos é a possibilidade de integração com outros sistemas, como Uber, Cabify e 99Táxis, o que permite automatizar as despesas com deslocamento dos colaboradores que precisem participar de reuniões externas, fazer visitas a clientes, dentre outros compromissos profissionais.
+
+Por sinal, o Rexpense tem uma funcionalidade incrível para auxiliar nesse controle: o recurso de despesas por distância. É muito simples de usar: no início da corrida, o colaborador deve marcar o local de partida e, ao final, também deve apontar o lugar de chegada. Assim, a ferramenta determina o valor de deslocamento, por quilômetro ou por milha, por meio da geolocalização entre os pontos de partida e chegada. É possível configurar a moeda a ser cobrada (real ou dólar) e até mesmo enviar mensagens e mencionar pessoas dentro do aplicativo, facilitando a comunicação entre as equipes.
+
+Outra possibilidade poderosa da ferramenta é a opção de criar regras de validade de despesa por valor, prazo e condição, e configurá-las conforme as políticas da empresa. Essa função, depois de parametrizada, funciona automaticamente, bloqueando o lançamento das despesas corporativas que fujam às normas estipuladas.
+
+Por exemplo, se houver uma regra de condição que determine que despesas corporativas de determinada natureza não sejam cobertas, sempre que um colaborador tentar registrar uma despesa desse tipo, ele será notificado e a solicitação será invalidada.
+
+O mesmo raciocínio se aplica para as regras de valor. Vamos supor que, segundo a política da empresa, o limite para um almoço com clientes seja de R$ 200,00. Nesse caso, se o colaborador tentar solicitar um reembolso de valor superior ao do orçamento, ele receberá uma notificação e a despesa será anulada. Isso também vale para as regras de prazo. Se a empresa estipular um prazo de sete dias para o registro de despesas realizadas em viagens de negócios, todas as despesas registradas fora dessa data serão anuladas.
+
+Na prática, essa função atua como um alerta de despesas que não estejam de acordo com as regras, e ajuda o gestor financeiro a manter o orçamento sob controle. É uma inovação exclusiva do Rexpense, que permite elevar a gestão financeira a um patamar muito superior.
+
+Com o Rexpense, é muito mais simples gerenciar as despesas, adiantamentos e reembolsos corporativos.
