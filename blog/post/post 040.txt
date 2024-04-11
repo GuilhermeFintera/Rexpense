@@ -1,0 +1,52 @@
+Slug:
+/blog/gestao-de-despesas-corporativas-desafios-e-solucoes
+
+Título:
+Gestão de despesas corporativas – Desafios e soluções
+
+Data:
+16/08/2018
+
+Categoria:
+Despesas e Reebolsos Corporativos
+
+Img:
+blog_40.jpg
+
+Resumo:
+Para que uma empresa prospere, é fundamental ter uma boa gestão de despesas corporativas. Se o gestor não tiver total controle sobre essas despesas, correrá uma série de riscos que porão seu sucesso a perder. Por exemplo, ele será incapaz de perceber se a empresa está saudável, ou seja, se os gastos não estão extrapolando os ganhos…
+
+Meta:
+O campo estava vazio
+
+Conteúdo:Para que uma empresa prospere, é fundamental ter uma boa<strong> gestão de despesas corporativas</strong>. Se o gestor não tiver total controle sobre essas despesas, correrá uma série de riscos que porão seu sucesso a perder.
+
+Por exemplo, ele será incapaz de perceber se a empresa está saudável, ou seja, se os gastos não estão extrapolando os ganhos. Sem gerenciar adequadamente as despesas, ele pode perceber o problema tarde demais, quando uma crise financeira já tiver se instalado.
+
+Outro risco que se corre é não conseguir precisar se os resultados da empresa estão sendo positivos ou negativos, afinal, não tem como saber se &nbsp;as ações planejadas estão dando bons frutos se você não levar em conta o quanto efetivamente gasta com elas. Como sabemos, nem sempre o fechamento de uma venda significa lucro para a empresa, pois, dependendo do valor das despesas envolvidas, pode ser melhor negócio abdicar de clientes financeiramente problemáticos.
+
+Conforme você pode perceber, negligenciar a <strong>gestão das despesas corporativas</strong> pode trazer inúmeros contratempos para a sua empresa, e fazer esse controle da forma correta exige dedicação e atenção. Nesse post, vamos comentar os principais desafios em torno dessa tarefa e dar sugestões valiosas de como contorná-los.
+
+<h2>Os desafios da gestão de despesas corporativas</h2>
+
+O primeiro desafio é <strong>entender as despesas</strong>, listando cada gasto, analisando contratos e índices e passando um verdadeiro pente fino nas contas, a fim de eliminar aquelas despesas desnecessárias. Esse diagnóstico deve levar em consideração os <strong>gastos fixos e variáveis</strong>. Dessa forma, a empresa vai descobrir o quanto ganha, efetivamente, e identificar as despesas que podem ser cortadas.
+
+A partir daí, é preciso <strong>rever os contratos ativos</strong> e tentar <strong>renegociar valores com fornecedores e prestadores de serviço</strong>, o que pode aliviar o caixa da empresa e facilitar seu crescimento. Para essa renegociação, é interessante fazer uma pesquisa com o preço médio no mercado, compará-lo com os valores de seu contrato atual e negociar melhores condições com base nisso. Torne essa tarefa uma rotina e, assim, reduza os seus custos.
+
+Outro desafio é <strong>controlar o reembolso e os adiantamentos</strong>, que podem ser responsáveis por grande parte dos gastos da empresa e, por isso, precisam de uma gestão eficiente, que evite erros e fraudes nos processos. Para que essa <strong>gestão de despesas e reembolsos</strong> seja efetiva, você precisa, para começo de conversa, ter uma <strong>política de despesas</strong> sólida e clara. Nela, é preciso <strong>estipular os limites de cada despesa</strong>, os <strong>tipos de despesas que podem ou não ser reembolsadas</strong>, entre outras normas para o bom funcionamento da política. Já falamos mais sobre esse assunto <a href="politicas-de-reembolso-de-despesas-corporativas-5-dicas-para-fazer-isso-direito.html">neste post</a>.
+
+Nesse ínterim, também é necessário <strong>definir os processos de reembolso</strong>, ou seja, traçar o fluxo que envolverá os colaboradores e os gestores no <strong>processo de solicitação e aprovação e despesas</strong>. Nesse momento, deve-se estabelecer como as despesas serão comprovadas, como os <strong>relatórios de despesas </strong>serão entregues e para quem, qual será a periodicidade para as solicitações e para o envio de relatórios, quem irá aprovar as despesas e em que prazo, em quanto tempo o valor será reembolsado ao funcionário, entre outros processos que precisam estar discriminados. Isso ajuda a organizar tudo e &nbsp;a evitar erros e retrabalho.
+
+Vale lembrar que a empresa nunca deverá realizar o reembolso sem a apresentação de comprovantes. Essa proibição deve estar explícita nas <strong>normas da política de despesas corporativas</strong>, pois efetuar o pagamento nessas condições podem abrir caminho para fraudes futuras e até mesmo acarretar problemas fiscais.
+
+Outro desafio que deve ser driblado na <strong>gestão de despesas corporativas</strong> é a não conferência dos relatórios. Deixar de verificá-los regularmente pode trazer prejuízos. O problema é que fazer isso consome tempo, portanto, o ideal é buscar alternativas para <strong>automatizar os processos</strong> para facilitar a conferência das despesas e a aprovação de solicitações.
+
+<h2>Como otimizar a gestão de despesas corporativas</h2>
+
+Atualmente, é possível fazer <strong>uso da tecnologia na gestão de despesas corporativas</strong>, economizando tempo, dinheiro e energia nos processos, e ainda minimizando a ocorrência de erros. Os processos manuais são, via de regra, caros, lentos e burocráticos, e é por isso que as empresas devem procurar soluções tecnológicas para automatizar determinadas tarefas e poder focar no seu <em>core business</em>.
+
+O <a href="../index.html">Rexpense</a> é um exemplo de como se pode <strong>usar a tecnologia para melhorar a gestão de despesas corporativas</strong>. Por meio do software, é possível automatizar o processo de <strong>solicitação e aprovação de reembolsos</strong> de uma forma muito descomplicada. Pelo próprio app, o colaborador pode enviar o comprovante de determinada despesa em tempo real e o gestor pode aprová-la na mesma hora, tornando tudo mais simples. Também existe a possibilidade de acompanhar o orçamento e o status de cada despesa totalmente online.
+
+Outra funcionalidade interessante é que o <strong>Rexpense</strong> permite a configuração de parâmetros baseados na política da empresa. Dessa forma, se alguém tentar solicitar reembolso para uma despesa que fuja às regras (por ter excedido o valor máximo ou o comprovante estar fora do prazo, por exemplo) , o sistema bloqueia aquela solicitação. Isso possibilita melhor controle e garante que nenhuma despesa fora dos padrões seja paga.
+
+Quer saber mais sobre como a tecnologia pode ser usada para melhorar a gestão de despesas corporativas em sua empresa? <a href="../index.html">Visite o nosso site e agende uma demonstração gratuita</a>.

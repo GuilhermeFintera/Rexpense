@@ -1,0 +1,43 @@
+Slug:
+/blog/a-importancia-da-integracao-de-sistemas-na-gestao-de-despesas-corporativas
+
+Título:
+A importância da integração de sistemas na gestão de despesas corporativas
+
+Data:
+01/08/2018
+
+Categoria:
+Despesas e Reebolsos Corporativos
+
+Img:
+blog_35.jpg
+
+Resumo:
+Com a tecnologia que temos atualmente, quase todas as tarefas recorrentes e burocráticas de uma empresa podem ser automatizadas e integradas, para poupar tempo e recursos, diminuir a incidência de erros e tornar os processos mais produtivos e eficientes. Com a integração de sistemas, é possível turbinar a gestão e melhorar os resultados. E a gestão de despesas…
+
+Meta:
+O campo estava vazio
+
+Conteúdo:
+Com a tecnologia que temos atualmente, quase todas as<strong> tarefas recorrentes e burocráticas de uma empresa</strong> <strong>podem ser automatizadas e integradas</strong>, para poupar tempo e recursos, diminuir a incidência de erros e tornar os processos mais produtivos e eficientes. Com a<strong> integração de sistemas</strong>, é possível turbinar a gestão e melhorar os resultados. E a <strong>gestão de despesas corporativas</strong> não foge a essa regra.
+
+O gestor corporativo tem uma grande responsabilidade em suas mãos, afinal, ele precisa elaborar um planejamento orçamentário realista; providenciar os recursos para <strong>pagar as despesas corporativas</strong> e os <strong>reembolsos dos colaboradores</strong> externos e/ou dos viajantes corporativos, além de manter todos esses gastos sob controle, estabelecendo limites para que não fujam às normas da <strong>política de despesas da empresa</strong> e nem extrapolem o orçamento.
+
+Nesse sentido, é fundamental encontrar uma alternativa tecnológica que livre a empresa de papeladas desnecessárias, planilhas complicadíssimas e excesso de burocracia. E foi por isso que surgiu o <strong>Rexpense</strong>, a solução perfeita para <strong>agilizar a gestão de despesas corporativas</strong> e facilitar a rotina do gestor financeiro ao proporcionar um <strong>gerenciamento de despesas, reembolsos e adiantamentos</strong> seguro, online e disponível 24 horas por dia.
+
+O aplicativo permite que o gestor financeiro analise em tempo real todas as <strong>despesas e solicitações de reembolsos</strong>, confira os valores de adiantamentos, acompanhe o consumo da verba e o status de cada despesas, tudo isso de uma forma muito simples e rápida, para ajudar o processo de tomada de decisões. Já falamos de todas essas funcionalidades do Rexpense <a href="como-fazer-o-controle-automatico-das-despesas-corporativas.html">nesse post</a>, e indicamos fortemente a leitura para que você possa entender todos os benefícios envolvidos!
+
+<h2>Os benefícios da integração de sistemas na gestão de despesas corporativas</h2>
+
+Além de todas essas vantagens, o <a href="../index.html"><strong>Rexpense</strong></a> tem como diferencial suas<strong> infinitas possibilidades de integração</strong>. Mas por que isso é tão importante? Bem, a partir de <strong>uma gestão integrada</strong>, é possível <strong>otimizar o fluxo de processos da empresa</strong>, sem obstáculos, barreiras ou interrupções entre sistemas. Na prática, é como se tudo funcionasse em continuidade, <strong>como um sistema único</strong>. Isso ajuda em uma série de aspectos, como o compartilhamento das informações da empresa, a conciliação de cartões e faturas para conferência, a diminuição dos processos manuais (e, consequentemente, ganho de tempo e produtividade), e muito mais.
+
+O <strong>Rexpense</strong> foi desenvolvido para aceitar <strong>integrações com outros sistemas</strong> e facilitar a vida das empresas. Para isso, a ferramenta conta com uma poderosa API que permite total sincronia com inúmeros sistemas internos e externos já utilizados pela empresa, como os aplicativos de transporte particular Uber, Cabify e 99, para otimizar o gerenciamento das despesas com transporte de colaboradores. Com esse tipo de integração, é possível fazer tracking automático de corridas, criar despesas por e-mail e, é claro, agilizar o processo de prestação de contas.
+
+A ferramenta também permite <strong>integração com ferramentas de CRM</strong>, como o Pipedrive. Isso automatiza o reembolso e controle de despesas relacionadas ao atendimento de leads e novos clientes em potencial. Fazendo essa integração, é possível determinar quais atividades do Pipedrive geram novas despesas automáticas, como almoços de negócios e reuniões.
+
+Existe, até mesmo, a possibilidade de <strong>integração com sistemas de gestão de projetos</strong>, como o <strong>PSOffice</strong>, e com &nbsp;<strong>os maiores sistemas de ERP do mercado</strong>, como SAP, Oracle, Totvs e Nexaas, o que faz com que cada solicitação aprovada gere uma despesa no contas a pagar. Com a integração entre o Rexpense e o ERP de sua empresa, é muito mais simples controlar os gastos e tornar a <strong>gestão de despesas corporativas</strong> mais estratégica.
+
+Essa sincronia proporciona uma gestão automatizada de ponta a ponta: mais fluida, dinâmica e produtiva, sem interrupções, sem retrabalho e à prova de falhas humanas. O Rexpense também pode ser integrado utilizando webhooks, o que torna a comunicação ainda mais dinâmica e eficiente!
+
+<a href="../index.html">Confira as integrações disponíveis em nosso site</a> e aproveite para conhecer todas as vantagens que o <strong>Rexpense </strong>pode trazer para a sua empresa!

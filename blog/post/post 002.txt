@@ -1,0 +1,53 @@
+Slug:
+/blog/fraudes-no-reembolso-de-despesas-6-dicas-para-evitar-essa-pratica
+
+Título:
+Fraudes no reembolso de despesas – 6 dicas para evitar essa prática
+
+Data:
+23/05/2018
+
+Categoria:
+Despesas e Reebolsos Corporativos
+
+Img:
+blog_2.jpg
+
+Resumo:
+Uma das principais preocupações de um gestor, no que se refere ao controle das despesas corporativas, é a possibilidade de fraudes de colaboradores ao solicitar reembolsos. Isso pois, utilizando sistemas e planilhas manuais, é relativamente simples adulterar o valor de recibos ou simplesmente pedir reembolso por despesas não-realizadas. De acordo com informações da consultoria Hands…
+
+Meta:
+O campo estava vazio
+
+Conteúdo:
+Uma das principais preocupações de um gestor, no que se refere ao controle das despesas corporativas, é a possibilidade de fraudes de colaboradores ao solicitar reembolsos. Isso pois, utilizando sistemas e planilhas manuais, é relativamente simples adulterar o valor de recibos ou simplesmente pedir reembolso por despesas não-realizadas.
+
+De acordo com informações da consultoria Hands On Solution, as empresas perdem cerca de 8% do seu faturamento por conta de desvios feitos por colaboradores. Para não correr o risco de deixar a empresa em prejuízo, o gestor precisa estar atento para evitar fraudes. Nesse post, vamos dar 6 dicas para facilitar a sua vida!
+
+<h2>1- Crie uma política de despesas</h2>
+
+Se sua empresa ainda não conta com uma política de despesas corporativas, está na hora de mudar isso. É necessário estabelecer um orçamento para cada setor da empresa, listar quais membros da equipe podem realizar cada despesa e, é claro, especificar que tipos de despesas são passíveis de reembolso. Além disso, é preciso esclarecer para a equipe quais documentos precisam ser apresentados como comprovante a fim de se obter o reembolso. Criando um padrão, fica mais difícil fraudar os dados e mis fácil controlar automaticamente as autorizações de reembolso.
+
+<h2>2- Calcule as despesas</h2>
+
+Sabendo mais ou menos os custos de cada despesa reembolsável, o gestor consegue reduzir custos e diminuir a chance de adulterações. Por isso, calcule todos os custos envolvidos e compare-os com os recibos apresentados: se houver qualquer disparidade, você vai perceber na hora.
+
+<h2>3- Faça uma auditoria</h2>
+
+Realizar auditorias regularmente é primordial para coibir fraudes. De tempos em tempos, dedique-se a gerar relatórios dos pedidos de reembolso, confira recibos e notas fiscais para verificar se são autênticos, e fiscalize o máximo possível, a fim de evitar prejuízos.
+
+<h2>4- Estreite o relacionamento com sua equipe</h2>
+
+Manter uma relação cordial com os funcionários é primordial para o sucesso de uma empresa, e também ajuda a prevenir fraudes. Investir no relacionamento com os colaboradores, bater sempre na tecla do respeito e da transparência e conscientizá-los sobre a importância de serem honestos na hora de solicitar reembolsos são ótimas maneiras de evitar problemas.
+
+<h2>5- Aprimore o controle financeiro da empresa</h2>
+
+Um controle financeiro eficiente e produtivo ajuda a coibir fraudes. Por isso, aposte em práticas como a adoção de orçamentos, o acompanhamento de perto da movimentação financeira, o acompanhamento do fluxo de caixa, entre outras medidas para otimizar a gestão financeira.
+
+<h2>6- Lance mão da tecnologia para gerenciar reembolsos</h2>
+
+Hoje, a tecnologia permite automatizar tarefas e ganhar produtividade, e isso inclui, é claro, a gestão de despesas corporativas, adiantamentos e reembolsos. Com o <a href="../index.html"><strong>Rexpense</strong></a>, o gestor consegue ter uma visão em tempo real de cada despesa feita. O envio de comprovantes e recibos é feito diretamente pela ferramenta, assim como a aprovação. Tudo fica documentado para conferência posterior, facilitando o controle financeiro.
+
+É possível, por exemplo, verificar o valor adiantado por cada empresa e usuário, o quanto já foi consumido, e em quais despesas. Além disso, é possível cadastrar as políticas da organização e regras de notificação, permitindo por exemplo que o gestor seja avisado sobre uma despesa fora do padrão. O controle torna-se então automático e em tempo real! Tudo é muito fácil e rápido e, como o sistema opera em nuvem, está disponível 24 horas por dia. O Rexpense oferece ainda inúmeras possibilidades de integrações com os sistemas que a empresa já utiliza para viabilizar uma gestão mais fluida.
+
+Usando o Rexpense, a segurança da empresa é garantida, e a possibilidade de fraudes nos reembolsos, reduzida. São tantos benefícios que só falar sobre eles é pouco, é preciso testar na prática: <a href="../index.html/#Contato">clique aqui para agendar uma demonstração</a>!

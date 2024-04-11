@@ -1,0 +1,47 @@
+Slug:
+/blog/rdv-ou-relatorio-de-despesas-com-viagens-corporativas-saiba-como-elaborar-o-seu
+
+Título:
+RDV ou Relatório de Despesas com Viagens Corporativas – Saiba como elaborar o seu
+
+Data:
+23/05/2018
+
+Categoria:
+Viagens Corporativas
+
+Img:
+blog_1.jpg
+
+Resumo:
+Com a descentralização da gestão, muito comum nas empresas atualmente, uma nova responsabilidade recaiu sobre o gestor: a organização das despesas com viagens corporativas, desde os gastos com passagens e hospedagem até faturas de restaurantes e transporte, entre outros. O processo de aprovação e reembolso desse tipo de despesa pode ser um problema se a empresa depender completamente de…
+
+Meta:
+O campo estava vazio
+
+Conteúdo:
+Com a descentralização da gestão, muito comum nas empresas atualmente, uma nova responsabilidade recaiu sobre o gestor: a organização das despesas com viagens corporativas, desde os gastos com passagens e hospedagem até faturas de restaurantes e transporte, entre outros. O processo de aprovação e reembolso desse tipo de despesa pode ser um problema se a empresa depender completamente de planilhas pouco intuitivas, sujeitas a erros e fraudes. Por isso, nesse post, vamos dar dicas de <strong>como fazer um relatório de despesas com viagens corporativas (RDV)</strong>.
+
+<h2>Elenque as despesas e estabeleça um orçamento</h2>
+
+Para que nada saia do controle, é necessário ter um orçamento bem planejado. Para isso, é preciso pesquisar e listar todas as despesas necessárias durante a viagem e, com base nesses valores, estabelecer um orçamento realista.
+
+Nessa conta, devem entrar as passagens de ônibus ou avião, as reservas em hotéis, alimentação dos viajantes corporativos e despesas com os traslados entre aeroporto/rodoviária, hotel e local de trabalho.
+
+<h2>Decida o que será pago adiantado e o que será reembolsável</h2>
+
+Dentre as despesas com viagens, algumas podem ser pagas antecipadamente, como as diárias de hotéis e as passagens, enquanto outras, como gastos com combustível, transporte e alimentação, precisam ser reembolsadas. É preciso fazer esse planejamento antes da viagem, acordar com os colaboradores quais despesas serão reembolsadas posteriormente e informar qual será o teto para essas despesas. É necessário que, na hora de comprovar as despesas, os funcionários discriminem cada gasto detalhadamente, como, por exemplo, a quantidade de diárias utilizada e quantas refeições foram consumidas no hotel. Também é necessário incluir notas fiscais, recibos de passagens e corridas de táxi.
+
+Todas essas questões podem ser claramente definidas e administradas se a empresa usar um <strong>sistema de gestão de despesas e reembolsos </strong>que permita apontar as políticas de aprovação da empresa, evitando que ocorram gastos fora dos padrões permitidos.
+
+<h2>Utilize a tecnologia do Rexpense para automatizar sua gestão</h2>
+
+A tecnologia pode ser uma grande ajuda para uma gestão otimizada e sem entraves. Com o <a href="../index.html"><strong>Rexpense</strong></a>, é possível gerenciar perfeitamente as despesas, adiantamentos e reembolsos, de maneira prática, rápida e em poucos cliques. Com ele, a trabalhosa tarefa de elaborar relatórios se torna muito mais simples e rápido, porque é tudo automatizado e intuitivo. Isso torna o processo inteiro mais produtivo, facilita a gestão e reduz custos. O controle financeiro é todo feito de forma automática, possibilitando que o status seja atualizado a qualquer instante, apenas com o auxílio de um dispositivo com conexão à internet.
+
+Utilizando o Rexpense, as planilhas de Excel se tornam desnecessárias: é possível fotografar e enviar recibos, notas fiscais e comprovantes em questão de segundos. Isso pode ser feito pelo aplicativo mobile e até mesmo operando offline. Para o gestor, é possível acompanhar o status de cada despesa cadastrada e receber notificações por e-mail toda vez que houver alteração. O controle também é acessível e totalmente online, e o gestor consegue ver a qualquer momento o quanto já foi consumido da verba e quais despesas foram feitas. Com apenas um clique já é possível visualizar e aprovar centenas de despesas de uma só vez!
+
+O sistema do Rexpense é intuitivo e fácil de usar, e permite a definição de níveis hierárquicos e fluxos de aprovação, além da criação de tags e filtros para agrupar despesas. Tudo isso fica salvo e disponível para consulta 24h por dia pois, como trabalha na nuvem, o Rexpense pode ser acessado utilizando qualquer aparelho conectado à internet.
+
+Além de tudo isso, o Rexpense tem integração com aplicativos como 99, Uber e Cabify, possibilitando tracking automático de corridas, criação de despesas com viagens via e-mail e mais praticidade na prestação de contas. Tudo isso facilita muito na hora de montar seu relatório de despesas com viagens corporativas. O Rexpense é ou não é um grande aliado para otimizar a elaboração de RDV para a gestão?
+
+Gostou do que viu até agora? Então <a href="../index.html/#Contato">clique aqui e descubra o que mais o Rexpense pode fazer por você</a>!

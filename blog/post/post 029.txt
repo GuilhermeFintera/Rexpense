@@ -1,0 +1,43 @@
+Slug:
+/blog/reembolso-de-despesas-corporativas-sua-empresa-pode-fazer-isso-melhor
+
+Título:
+Reembolso de despesas corporativas – Sua empresa pode fazer isso melhor
+
+Data:
+18/07/2018
+
+Categoria:
+Despesas e Reebolsos Corporativos
+
+Img:
+blog_29.jpg
+
+Resumo:
+É muito comum que, em empresas que contem com colaboradores que atuem externamente, indo a reuniões ou visitando clientes, seja utilizado o sistema de reembolso de despesas corporativas. Nesse sistema, o colaborador arca com suas despesas de transporte, alimentação, hospedagem e gasolina quando faz serviços externos e, posteriormente, apresenta os comprovantes de pagamento dessas despesas e…
+
+Meta:
+O campo estava vazio
+
+Conteúdo:
+É muito comum que, em empresas que contem com colaboradores que atuem externamente, indo a reuniões ou visitando clientes, seja utilizado o sistema de<strong> reembolso de despesas corporativas</strong>. Nesse sistema, o colaborador arca com suas despesas de transporte, alimentação, hospedagem e gasolina quando faz serviços externos e, posteriormente, apresenta os comprovantes de pagamento dessas despesas e solicita o reembolso à empresa.
+
+O mais comum, ainda hoje, é realizar o processo de reembolsos por meio de formulários, notas fiscais anexadas e planilhas de Excel. Todos os gastos dos colaboradores em deslocamento devem ser registrados na hora de fazer a solicitação, de modo que o setor financeiro consiga validar o reembolso. Nesse processo, é feita a conferência dos valores registrados, a fim de identificar se eles estão de acordo com as regras estipuladas na <strong>política de reembolsos</strong>, se não excederam o limite, se estão dentro do prazo e se não há nenhuma irregularidade.
+
+O problema disso é que, além de ser chato para o funcionário ter que ficar guardando recibos até o momento de pedir o reembolso manualmente, os comprovantes podem ser extraviados no meio do caminho, fazendo com que a despesa não possa ser reembolsada. Isso acarreta um prejuízo financeiro para o colaborador e muitas dores de cabeça para a empresa, afinal, empresas de Lucro Real nem sequer podem reembolsar despesas sem comprovação para não incorrer em problemas fiscais no futuro.
+
+Outro problema que pode acontecer são as temidas fraudes. Sem a existência de um documento que comprove o gasto, eventualmente um colaborador pode agir de má fé e solicitar reembolsos para gastos inexistentes, ou então para itens proibidos pela <strong>política da empresa</strong> (bebidas alcoólicas, por exemplo).
+
+Outra desvantagem em se usar esses métodos manuais para fazer o controle dos <strong>reembolsos de despesas corporativas</strong> é que isso acaba tomando muito tempo. Em geral, é preciso disponibilizar um analista financeiro só para conferir cupons fiscais e planilhas, uma tarefa monótona, longa e altamente burocrática.
+
+Por se tratar de um processo repetitivo, a chance de ocorrência de erros é muito grande: pode haver registros errados na planilha, recibos danificados devido a um armazenamento feito de forma desleixada, desorganização de registros e ausência de comprovantes. Dessa forma, o retrabalho acaba sendo uma constante…e esse nem é o pior problema!
+
+O pior, na verdade, é que esse processo desperdiça tempo, energia e recursos preciosos da empresa, obrigando o analista financeiro a se dedicar somente a tal tarefa, ao invés de fazer outras coisas que poderiam render mais para a empresa. Isso acaba minando a produtividade e afetando o caixa da empresa.
+
+E qual é a solução para esses problemas? Simples: utilizar a tecnologia para revolucionar a <strong>gestão de despesas corporativas</strong> em sua empresa e tornar o processo de reembolsos muito mais produtivo. &nbsp;A melhor maneira de fazer isso é usando o <a href="../index.html">Rexpense</a>, o <strong>gerenciador de despesas e reembolsos</strong> mais inteligente que você já viu.
+
+Com ele, é possível livrar-se das planilhas de uma vez por todas e eliminar a necessidade de guardar e conferir comprovantes: pelo próprio app, o colaborador consegue enviar o recibo no momento em que a despesa é feita e o gestor pode aprová-la em tempo real.
+
+O software conta uma funcionalidade que permite <strong>parametrizar as regras corporativas</strong>, de modo que qualquer irregularidade seja verificada no momento em que a solicitação é feita. Assim, é muito simples identificar possíveis distorções dos valores de reembolso solicitados, apontar erros em notas fiscais e apontar documentos que não estejam alinhados com as políticas da empresa.
+
+Quer ver como funciona na prática? <a href="../index.html">Clique aqui e solicite sua demonstração gratuita</a>.

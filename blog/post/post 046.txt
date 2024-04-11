@@ -1,0 +1,75 @@
+Slug:
+/blog/evite-os-principais-erros-na-gestao-de-despesas-da-sua-empresa
+
+Título:
+Evite os principais erros na gestão de despesas da sua empresa
+
+Data:
+06/09/2018
+
+Categoria:
+Despesas e Reebolsos Corporativos
+
+Img:
+blog_46.jpg
+
+Resumo:
+Para que uma empresa tenha lucro, é essencial que ela gaste menos do que fatura. Parece óbvio na teoria mas, na prática, nem sempre tudo são flores. Daí a importância de manter o controle das despesas, procurando reduzir custos sempre que possível. Realizar a gestão de despesas corporativas demanda alguns cuidados, e negligenciá-los pode causar…
+
+Meta:
+O campo estava vazio
+
+Conteúdo:
+Para que uma empresa tenha lucro, é essencial que ela gaste menos do que fatura. Parece óbvio na teoria mas, na prática, nem sempre tudo são flores. Daí a importância de <strong>manter o controle das despesas</strong>, procurando <strong>reduzir custos </strong>sempre que possível. Realizar a <strong>gestão de despesas corporativas</strong> demanda alguns cuidados, e negligenciá-los pode causar impactos negativos na lucratividade.
+
+Neste post, vamos contar quais são os <strong>erros mais comuns na gestão das despesas corporativas</strong> e explicar como evitá-los!
+
+<h2>1- Não ter uma política de despesas bem definida</h2>
+
+O primeiro passo é <strong>estabelecer uma sólida política de despesas corporativas</strong>, conforme <a href="politica-de-viagens-corporativas-saiba-como-elaborar-na-sua-empresa.html">já ensinamos aqui no blog</a>. Fazer isso ajuda o gestor a prever e evitar situações embaraçosas, e trazer soluções práticas para elas.
+
+Na política, devem estar fixados os limites de gastos, os tipos de despesas cobertas, os prazos para solicitação de ressarcimento para despesas feitas profissionalmente ou em viagens, entre outros.
+
+Também devem constar cláusulas específicas, de acordo com a necessidade da empresa. Por exemplo: os gastos demandados fora do horário comercial são reembolsados? Bebidas alcoólicas entram na verba para almoço com clientes? Gastos com entretenimento do colaborador ou com Wi-Fi no hotel são passíveis de reembolso em viagens de negócios?
+
+Não se esqueça: <strong>a política de despesas deve refletir as demandas de seu negócio</strong>.
+
+<h2>2- Não ter um processo de reembolso inteligente</h2>
+
+Não basta ter uma política bem redigida e objetiva: é preciso colocá-la em prática. Nesse contexto, é fundamental <strong>fazer uso de um sistema de despesas e reembolsos inteligente</strong>, <a href="aprovacao-de-despesas-em-viagens-de-negocios-aprenda-a-montar-esse-processo-na-sua-empresa.html">estabelecendo o fluxo para que as despesas sejam aprovadas e reembolsadas</a>, sem falhas no processo.
+
+Em outras palavras, é necessário especificar como os gastos são comprovados, qual será o formato do relatório, como serão feitas as solicitações de reembolso, em quanto tempo elas serão analisadas e quem as aprovará ou reprovará.
+
+<h2>3- Fazer reembolsos sem exigir comprovante das despesas</h2>
+
+Um erro muito comum nas empresas é <strong>reembolsar despesas corporativas sem que o colaborador apresente o comprovante</strong>, seja por extravio ou esquecimento. Certas empresas sequer fazem essa exigência, e isso é um erro.
+
+Inclusive, essa ressalva também deve estar explícita na política de despesas da companhia, uma vez que, além de dar margem para problemas fiscais no futuro, pagar despesas não comprovadas abre brecha para a ocorrência de fraudes.
+
+<h2>4- Deixar de conferir relatórios</h2>
+
+Na correria do dia a dia, pode ser complicado conferir os <a href="relatorio-de-despesas-corporativas-saiba-como-fazer-uma-entrega-inteligente.html">relatórios de despesas</a> apresentados pelos colaboradores na frequência aconselhável. Entretanto, fazer essa verificação é muito importante para evitar fraudes, falhas e prejuízos financeiros.
+
+Por isso, é fundamental<strong> conferir regularmente cada relatório e cada despesa enviada</strong>. Uma ótima maneira de facilitar essa tarefa é<strong> investir na automação dos processos de reembolso</strong>, tornando esse controle muito mais simples e rápido.
+
+<h2>5- Arredondar as despesas</h2>
+
+Para simplificar a rotina, é comum que algumas empresas simplesmente arredondem para cima os valores das notas apresentadas como comprovante de despesas corporativas. Porém, isso requer muita cautela, porque pode causar prejuízos.
+
+Arredondando os valores sem critério, além de perder o controle, você também pode correr o risco de desperdiçar muito dinheiro ao longo dos anos, sobretudo se sua empresa contar com muitos colaboradores externos e/ou viajantes corporativos, e precise realizar reembolsos com muita frequência.
+
+Multiplicando esse gasto excedente pelos meses, a empresa pode estar gastando mais do que o previsto, sem sequer perceber!
+
+<h2>6- Não lançar mão das inovações tecnológicas em sua empresa</h2>
+
+Por fim, aquele que provavelmente é o item mais importante da lista! Negligenciar a tecnologia e perder a chance de utilizá-la para facilitar a gestão é um dos principais erros que podem ser cometidos.
+
+<strong>Automatizar a gestão de despesas corporativas</strong> é extremamente recomendável, porque os processos automáticos são muito mais baratos e ágeis do que os processos manuais e, portanto, optar por um sistema de gestão automatizada não só reduz custos desnecessários como também aumenta o desempenho e a produtividade.
+
+Se formos parar para pensar, praticamente todos os erros listados acima poderiam ser facilmente evitados utilizando um bom software para auxiliar no gerenciamento e controle das despesas e reembolsos corporativos, como o <a href="../index.html">Rexpense</a>.
+
+Por exemplo, é possível criar regras automáticas que respeitem as diretrizes da política de despesas, de modo que uma solicitação de reembolso fora das normas seria automaticamente bloqueada. O software também ajuda na confecção e conferência de relatórios e permite a visualização das despesas em tempo real, economizando tempo do gestor que, além de tudo, consegue aprovar solicitações de reembolso no momento em que elas são feitas.
+
+Com o <strong>Rexpense</strong>, enviar um comprovante de reembolso também é muito mais simples, porque isso pode ser feito pelo próprio app assim que a despesa acontece, evitando esquecimentos e perdas de recibo.
+
+Em suma, o <strong>Rexpense</strong> é a solução ideal para driblar todos os possíveis entraves que impedem sua empresa de ter uma gestão de despesas mais fluida e inteligente! Duvida? <a href="../index.html/#Contato">Clique aqui e agende sua demonstração sem compromisso</a>!

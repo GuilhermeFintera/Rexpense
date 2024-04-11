@@ -1,0 +1,63 @@
+Slug:
+/blog/reembolso-por-quilometragem-aprenda-a-fazer-esse-calculo
+
+Título:
+Reembolso por quilometragem – Aprenda a fazer esse cálculo
+
+Data:
+03/06/2018
+
+Categoria:
+Despesas e Reebolsos Corporativos
+
+Img:
+blog_4.jpg
+
+Resumo:
+É muito comum que as empresas utilizem o veículo próprio do funcionário para serviços externos, reuniões e outros compromissos fora da empresa, e depois efetuem o reembolso do combustível utilizado. Porém, se não houver um controle, pode haver dificuldades na hora de calcular o Km rodado para o reembolso. Isso porque pode haver falhas, erros de…
+
+Meta:
+O campo estava vazio
+
+Conteúdo:
+É muito comum que as empresas utilizem o veículo próprio do funcionário para serviços externos, reuniões e outros compromissos fora da empresa, e depois efetuem o <strong>reembolso do combustível </strong>utilizado. Porém, se não houver um controle, pode haver dificuldades na hora de <strong>calcular o Km rodado </strong>para o reembolso. Isso porque pode haver falhas, erros de cálculo, ou mesmo fraudes por parte de colaboradores ao elaborar relatórios que não correspondam à realidade. Isso tudo faz a empresa perder produtividade, e até mesmo dinheiro.
+
+Por isso, decidimos fazer esse pequeno tutorial de <strong>como fazer o cálculo de reembolso por quilometragem</strong> de forma mais eficiente.
+
+<h2>Primeiramente, liste as despesas consideradas reembolsáveis</h2>
+
+É muito importante acordar com os colaboradores quais despesas farão parte do <strong>reembolso de quilometragem</strong>. Normalmente, considera-se <strong>custos com combustível</strong>, com o seguro do automóvel, as taxas do veículo pagas ao DETRAN, os custos com limpeza e manutenção, e também o desgaste do veículo.
+
+É necessário definir na <strong>política de reembolsos da empresa</strong> qual será o percentual de participação da empresa sobre tais despesas, explicitando quais delas serão pagas integralmente e quais serão divididas com o funcionário. Algumas empresas, por exemplo, optam por pagar metade das taxas do DETRAN, do valor do seguro e dos gastos com limpeza e manutenção, e ressarcir integralmente o combustível utilizado. Isso deve ser definido entre a empresa e o colaborador.
+
+Uma medida muito adotada é o pagamento de 50% das taxas obrigatórias, seguro e limpeza do automóvel. O restante dos valores deve ser pago em sua totalidade, mas sempre se baseando pelo <strong>cálculo da</strong> <strong>quilometragem rodada</strong>, é claro.
+
+<h2>Listadas as despesas, é só fazer os cálculos!</h2>
+
+<h3>Combustível</h3>
+
+Nesse momento, você precisa calcular mais ou menos <strong>quantos quilômetros o carro é capaz de rodar com um litro de gasolina</strong>. Basta multiplicar o valor do litro da gasolina (que varia conforme a localidade da empresa) pela quantidade de quilômetros que podem ser rodados com um litro do combustível. Assim, você terá o valor a ser reembolsado.
+
+<h3>Limpeza do veículo</h3>
+
+Nessa etapa, você vai considerar o preço médio de uma limpeza semanal em sua região (multiplicado por 4 ou 5, de acordo com o número de semanas que o mês corrente tenha, caso você for efetuar o reembolso mensalmente) e também a <strong>quilometragem média</strong> que o funcionário rodará com o carro por semana. Divida o valor das limpezas efetuadas durante o mês pelo número de quilômetros que serão rodados e você terá o valor exato que deverá reembolsar.
+
+<h3>Seguro veicular</h3>
+
+Nessa etapa, você deve considerar o valor do seguro do automóvel usado pelo colaborador, em média. Para chegar à quantia a reembolsar, basta dividir o <strong>valor do seguro pelos quilômetros rodados</strong> durante o mês.
+
+<h3>Taxas obrigatórias: IPVA + Licenciamento</h3>
+
+Nessa etapa, você precisará verificar o valor médio do IPVA + Licenciamento do veículo do colaborador. Para isso, é necessário consultar a tabela FIPE. Então, basta somar os valores dessas taxas e dividir tudo pelo <strong>número de quilômetros rodados</strong>: você vai obter o valor que deve ser ressarcido pelas taxas obrigatórias.
+
+<h3>Total a ser ressarcido:</h3>
+
+Esse é o momento em que você vai somar todos os itens anteriores, ou seja, os <strong>valores que devem ser reembolsados </strong>pelo combustível, pela limpeza, pelo seguro e pelas taxas obrigatórias. Muito cuidado para não esquecer de incluir nenhum valor nesse somatório, para garantir que será feito o ressarcimento do valor correto.
+
+<h2>Como efetuar o cálculo do reembolso por KM rodado sem complicações</h2>
+
+Para manter o <strong>reembolso do combustível por quilômetro rodado</strong> sob controle sem dores de cabeça, suspeitas de fraude e perda de tempo, é fundamental contar com um <strong>software capaz de monitorar a rota realizada</strong>. O <a href="../index.html"><strong>Rexpense</strong></a> conta com a funcionalidade da <strong>despesa de distância</strong>, e utiliza o recurso de <strong>geolocalização entre os pontos de partida e chegada</strong> do colaborador, permitindo determinar o <strong>valor de deslocamento, por quilometro ou milha,</strong> além da moeda a cobrar.
+
+O próprio usuário pode solicitar o comprovante direto pelo aplicativo do Rexpense, e o gestor também consegue aprovar a despesa online rapidamente, evitando atrasos, falhas e burocracias desnecessárias. Isso torna todo o processo muito mais confiável, seguro e preciso, e permite que o gestor tenha mais <strong>controle sob suas equipes externas.</strong>
+
+Quer saber mais? <a href="../index.html/#Contato">Entre em contato e agende uma demonstração do Rexpense</a> com um de nossos consultores!

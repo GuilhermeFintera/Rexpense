@@ -1,0 +1,65 @@
+Slug:
+/blog/como-fazer-a-contabilizacao-das-despesas-reembolsaveis
+
+Título:
+Como fazer a contabilização das despesas reembolsáveis
+
+Data:
+08/11/2018
+
+Categoria:
+Despesas e Reebolsos Corporativos
+
+Img:
+blog_66.jpg
+
+Resumo:
+O reembolso de despesas é uma prática muito comum nas contratações de consultorias e prestações de serviço, ou mesmo em operações entre empresas do mesmo grupo. Entretanto, a contabilização das despesas reembolsáveis ainda gera muitas dúvidas. Esperamos ajudar a esclarecê-las com esta postagem! O que é o reembolso de despesas Os reembolsos de despesas representam os valores…
+
+Meta:
+O campo estava vazio
+
+Conteúdo:
+O <strong>reembolso de despesas</strong> é uma prática muito comum nas contratações de consultorias e prestações de serviço, ou mesmo em operações entre empresas do mesmo grupo. Entretanto, a <strong>contabilização das despesas reembolsáveis</strong> ainda gera muitas dúvidas. Esperamos ajudar a esclarecê-las com esta postagem!
+
+<h2>O que é o reembolso de despesas </h2>
+
+<strong>Os reembolsos de despesas representam os valores pagos ou devidos pela empresa, cujo ônus final será ressarcido para terceiros</strong>.
+
+Em geral, esse tipo de despesa se dá entre empresas contratantes. Nesses casos, por conveniência, uma das empresas arca com as despesas para, posteriormente, ser reembolsada pela outra contratante.
+
+Pode acontecer também <strong>entre organizações que pertencem ao mesmo grupo</strong>, que, para diminuir os custos administrativos internos, concentra em apenas uma organização, as áreas de apoio administrativo, como financeiro, contabilidade, jurídico e tecnologia da informação.
+
+Isso também acontece em contratos de consultoria ou assessoria. Neles, o prestador do serviço assume os custos de transporte, estada, passagens, alimentação e quaisquer outras despesas envolvidas, e posteriormente tem o valor gasto restituído.
+
+Essa mesma situação também é comum<strong> entre empresas e trabalhadores</strong>, por exemplo, quando o colaborador precisa usar seu veículo próprio e arcar com os custos do combustível nas atividades do empregador.
+
+O <strong>reembolso das despesas</strong> é, via de regra, realizado por meio de nota de débito, um documento comumente usado para realizar a cobrança de valores para os quais não se aplica a emissão de nota fiscal.
+
+<h2>Como fazer a contabilização das despesas reembolsáveis</h2>
+
+Se uma das empresas envolvidas no processo de reembolso deixar de contabilizar algum valor, as contas não vão bater, e haverá o perigo de que o Fisco considere os valores reembolsados a título de despesas como sendo os custos dos serviços prestados, constituindo uma parte do preço.
+
+Assim, tais quantias deveriam ser tributadas normalmente, sob pena de acusação de omissão de receitas. Para evitar esses problemas, a <strong>contabilização das despesas reembolsáveis</strong> <strong>deve ser simultânea nas empresas contratantes e contratadas</strong>, mediante os documentos ou relatórios apresentados.
+
+Vale ressaltar aqui que, segundo a determinação da Receita Federal, os reembolsos de despesas devem ser tributados. Já explicamos melhor sobre o assunto <a href="descubra-aqui-o-reembolso-de-despesas-deve-ser-tributado.html">nesse post</a>.
+
+Entretanto, uma prática comum é que, mesmo correndo risco de sofrerem autuações fiscais, algumas empresas optam pela não tributação, alegando que nesses casos não há acréscimo de renda ou aumento de receita, apenas um repasse de recursos.
+
+Seguindo esse argumento, é preciso alinhar a forma de registro contábil para fundamentar a decisão da empresa. Ou seja, se a organização não considera esses valores como receitas, não deve registrá-las nos seus resultados.
+
+Em lugar disso, deve-se <strong>registrar essas quantias ou em uma conta de ativo</strong>, quando é feita uma despesa e a empresa deve reembolsá-la, constituindo um <strong>valor a receber para o prestador de serviço;</strong> <strong>ou em uma conta de passivo</strong>, quando o cliente faz um adiantamento do valor necessário e, depois disso, o prestador de serviços faz a despesa, <strong>constituindo uma conta a pagar para o prestador</strong>. Com esses procedimentos, nem os pagamentos efetuados nem o valor recebido como reembolso de despesas transitam em conta de resultado e não serão computados como receita tributável.
+
+Outro passo importante é separar os valores registrados nos ativos e passivos em grupos diferentes. O primeiro grupo é relativo às despesas necessárias para a prestação dos serviços, reembolsáveis pelos clientes, como os gastos com passagens, transporte, alimentação e hospedagem. Já o segundo grupo diz respeito às despesas que realmente são do cliente, e cujas notas e recibos estejam em seus nomes, assim como as taxas e os custos judiciais.
+
+Nesse último caso, embora trate-se de despesas arcadas pelo prestador e posteriormente ressarcidas, fica mais claro que tais gastos são realmente do cliente, e que o prestador de serviços está apenas adiantando o valor por questões de praticidade. Portanto, caso haja fiscalização, será muito mais simples comprovar a natureza dos reembolsos.
+
+Vale lembrar que é fundamental <strong>guardar todos os comprovantes de despesas</strong> que foram reembolsadas para fundamentar os registros e apresentá-los à Receita caso isso seja solicitado.
+
+<h2>Como organizar e controlar o reembolso de despesas</h2>
+
+O problema de se guardar os comprovantes de maneira física, como em um arquivo ou uma pasta no escritório, é que eles podem se extraviar, o que geraria um problema na hora da prestação de contas. Por isso, o mais recomendado é optar por um <strong>software online de gestão de despesas e reembolsos</strong>, como o <a href="../index.html">Rexpense</a>. Com ele, é possível fazer <strong>upload de fotos dos recibos e notas fiscais </strong>no momento em que as despesas são geradas, e salvar esses documentos na nuvem para serem acessados a qualquer hora e em qualquer lugar.
+
+A solução ainda conta com diversas outras funcionalidades, como o <strong>acompanhamento de reembolsos em tempo real</strong> e o controle financeiro online. Por isso, o <strong>Rexpense</strong> é perfeito para organizações que lidem com esse tipo de situação com muita frequência.
+
+Agora que você já está a par de como realizar a<strong> contabilização das despesas reembolsáveis</strong>, que tal saber um pouco mais sobre essa importante ferramenta? <a href="../index.html">Clique aqui e visite nosso site</a>!

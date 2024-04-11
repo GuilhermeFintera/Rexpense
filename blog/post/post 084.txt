@@ -1,0 +1,55 @@
+Slug:
+/blog/dicas-para-acertar-no-reembolso-do-combustivel-por-quilometro-rodado
+
+Título:
+Dicas para acertar no reembolso do combustível por quilômetro rodado
+
+Data:
+28/12/2018
+
+Categoria:
+Despesas e Reebolsos Corporativos
+
+Img:
+blog_84.jpg
+
+Resumo:
+Muitas empresas que trabalham com vendas externas ou prestam outros serviços fora do escritório acabam optando, por questão de praticidade, por usar o veículo próprio do colaborador. Entretanto, existem algumas dificuldades que rondam essa prática, já que é necessário reembolsar o combustível usado por quilômetro rodado e ainda por cima se prevenir de fraudes na…
+
+Meta:
+O campo estava vazio
+
+Conteúdo:
+Muitas empresas que trabalham com vendas externas ou prestam outros serviços fora do escritório acabam optando, por questão de praticidade, por usar o veículo próprio do colaborador. Entretanto, existem algumas dificuldades que rondam essa prática, já que é necessário <strong>reembolsar o combustível usado por quilômetro rodado</strong> e ainda por cima <a href="como-evitar-fraudes-no-reembolso-de-quilometragem.html">se prevenir de fraudes na hora da solicitação do reembolso</a>.
+
+Embora algumas empresas achem que estipular um valor padrão aleatoriamente possa ser a alternativa mais fácil, ela não é recomendada pois, ao fazer isso, o gestor acaba tomando decisões sem critério e sem dados para embasar, o que aumenta a chance de dar errado. Por isso, aprender a <strong>calcular o reembolso por quilometragem</strong> corretamente é fundamental para melhorar a gestão e economizar dinheiro, além de ser mais justo tanto para a empresa quanto para o funcionário externo.
+
+Neste post, vamos dar algumas dicas práticas para ajudar na hora de calcular o valor do reembolso por quilômetro rodado e a obter dados precisos a partir dos relatórios entregues pela equipe.
+
+<h2>Fatores que influenciam o cálculo </h2>
+
+O <strong>valor do quilômetro rodado</strong> deve levar em consideração não só o combustível utilizado no deslocamento, mas também outros fatores, como a limpeza e a manutenção, o desgaste ou a depreciação, e o seguro do veículo. Algumas empresas também arcam com o valor do IPVA e do licenciamento do carro.
+
+O importante é <strong>deixar bem claro o que está ou não incluído no cálculo do reembolso</strong>, portanto, se a empresa optar por adicionar ou retirar algum item, os colaboradores externos devem ser informados e estar de acordo, de preferência com um termo assinado por todas as partes.
+
+É necessário definir na <strong>política de reembolsos </strong>o percentual de participação da empresa sobre as despesas com deslocamento, pontuando quais serão pagas integralmente e quais serão divididas com o colaborador.
+
+Também é essencial levar em conta que os fatores que compõem o valor do reembolso por quilometragem variam de empresa para empresa, e também da natureza do serviço que será feito externamente.
+
+Para fazer o cálculo, basta somar todos os valores que devem ser reembolsados pelo combustível, pela limpeza, pelo seguro e pelas taxas do automóvel. Fique atento para não esquecer de considerar nenhuma despesa no somatório para garantir que o ressarcimento será justo. Já fizemos um post explicando detalhadamente como calcular, <a href="reembolso-por-quilometragem-aprenda-a-fazer-esse-calculo.html">clique aqui</a> para conferir.
+
+<h2>Como lidar com a imprecisão nos cálculos </h2>
+
+Ok, você já aprendeu a fazer o cálculo, mas saiba que ele não é totalmente preciso, pois mesmo que todos os comprovantes das despesas sejam apresentados, não é possível saber se os recibos se referem apenas às visitas realizadas e não a gastos pessoais. Há casos em que o funcionário utiliza alguns dos quilômetros rodados em benefício próprio, o que faz com que a empresa arque com mais despesas do que o necessário.
+
+Dessa forma, fazer o<strong> cálculo da quilometragem</strong> só é 100% confiável se a empresa tiver controle sobre tudo que foi gasto no trajeto realizado para a visita técnica ou reunião externa. Para isso, é interessante lançar mão de ferramentas como o GPS ou mesmo soluções de <a href="a-importancia-da-roteirizacao-para-a-performance-de-equipes-externas.html"><strong>roteirização para equipes externas.</strong></a> Assim, o gestor consegue gerenciar melhor o trabalho do time que está em campo, e pode mensurar se o valor investido está trazendo retorno.
+
+<h2>Como manter o reembolso do combustível por quilômetro rodado sob controle</h2>
+
+Para controlar melhor o<strong> reembolso do combustível por quilômetro rodado</strong>, é importante contar com um software capaz de monitorar a rota realizada. O <strong>Rexpense</strong> tem, entre outras vantagens, a função de cálculo de despesa de distância, e usa o recurso de geolocalização entre os pontos de partida e chegada do profissional para determinar o valor de deslocamento, por quilômetro ou por milha.
+
+O próprio colaborador pode enviar o comprovante pelo aplicativo móvel e solicitar o reembolso imediatamente. O gestor também pode aprovar ou reprovar as despesas em poucos segundos, bastando contar com um dispositivo com acesso à internet.
+
+Isso evita atrasos, falhas e fraudes, e torna todo o processo muito mais seguro e transparente, pois permite um gerenciamento bem mais eficaz sobre as equipes externas. Dessa maneira, o gestor consegue dedicar o seu tempo e sua energia às tarefas realmente importantes da função, sem necessidade de checar recibo por recibo.
+
+Gostou da ideia e quer experimentar em sua empresa? <a href="../index.html/#Contato">Entre em contato conosco e agende uma demonstração do Rexpense!</a>

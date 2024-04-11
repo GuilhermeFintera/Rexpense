@@ -1,0 +1,63 @@
+Slug:
+/blog/relatorio-de-despesas-corporativas-saiba-como-fazer-uma-entrega-inteligente
+
+Título:
+Relatório de despesas corporativas – Saiba como fazer uma entrega inteligente
+
+Data:
+27/06/2018
+
+Categoria:
+Despesas e Reebolsos Corporativos
+
+Img:
+blog_20.jpg
+
+Resumo:
+Saber como fazer um bom relatório de despesas corporativas é importantíssimo para manter a saúde financeira em dia, afinal, é por meio desse documento que será possível entender claramente os gastos da empresa, estabelecer um orçamento realista para as despesas corporativas e, é claro, efetuar os reembolsos das despesas feitas pelos colaboradores. Mas como criar…
+
+Meta:
+O campo estava vazio
+
+Conteúdo:
+Saber como <strong>fazer um bom relatório de despesas corporativas</strong> é importantíssimo para manter a saúde financeira em dia, afinal, é por meio desse documento que será possível entender claramente os gastos da empresa, estabelecer um orçamento realista para as despesas corporativas e, é claro, efetuar os reembolsos das despesas feitas pelos colaboradores.
+
+Mas como criar esse tipo de relatório da maneira correta? Nesse post, a gente ensina!
+
+<h2>1- Escolha a ferramenta perfeita</h2>
+
+Primeiro, você precisa saber que um relatório de despesas corporativas pode ser feito usando os mais diversos recursos, e, por isso, você deve escolher a ferramenta a ser utilizada de acordo com as necessidades da empresa.
+
+Há quem prefira o velho Excel para controlar tudo por meio de planilhas. Se você for usar o Excel, lembre-se de inserir colunas para a categoria da despesa, a equipe, o projeto e o motivo da viagem, além da descrição das despesas. Isso ajuda a tornar o processo mais organizado.
+
+O problema de realizar todo o controle manualmente é que, além de tomar muito mais tempo, isso pode acabar ocasionando erros e retrabalho, além de abrir espaço para fraudes em solicitações de reembolso.
+
+Por isso, hoje as empresas mais modernas acabam optando por softwares especializados para realizar essa gestão e, assim, ganhar produtividade e evitar falhas humanas.
+
+Caso sua empresa esteja pronta para dar um passo além e mergulhar nas maravilhas do controle automático de gestão de despesas corporativas, o ideal é optar pelo <a href="../index.html">Rexpense</a>. Com ele, você consegue facilmente classificar as despesas por meio de tags personalizadas e inteligentes que agrupam as despesas por equipe ou de modo individual, de forma a tornar a entrega mais rápida e eficiente.
+
+<h2>2- Estipule as despesas mais relevantes para o seu negócio</h2>
+
+O relatório de despesas corporativas deve permitir a personalização dos custos de sua empresa, já que eles variam de negócio para negócio.
+
+Por isso, as despesas que serão enumeradas e gerenciadas no documento devem ser definidas em sua política de reembolsos, como garantia de que apenas o que for relevante será acompanhado no relatório. Dessa forma, você economiza tempo e evita o acúmulo de dados desnecessários.
+
+<h2>3- Registre os dados dos colaboradores</h2>
+
+Para que o relatório de despesas corporativas tenha validade, é preciso que os funcionários que solicitarão reembolsos reconheçam as próprias despesas e assinem o documento. Portanto, é necessário deixar um espaço para a identificação dos funcionários, em que serão inseridos os dados pessoais e os contatos.
+
+Além de isso ser uma medida de segurança para ambas as partes, esse registro de despesas por colaborador também permite elencar quem gasta mais e quem gasta menos. Com essas informações, fica mais fácil remanejar os gastos para caberem no orçamento da empresa.
+
+<h2>4- Calcule os valores </h2>
+
+Após definir os gastos e identificar corretamente os colaboradores, é necessário calcular os valores. O ideal é que o gestor saiba quais são os gastos totais da empresa com hospedagens, passagens, transporte, entre outros.
+
+Isso pode ser feito no Excel, por meio de fórmulas automáticas que calculam os valores durante o preenchimento, ou também por um sistema especificamente desenvolvido para o controle das despesas corporativas, como o <a href="../index.html">Rexpense</a>, o que, além de ser mais prático e seguro, também ajuda a evitar erros no relatório e imprecisão nos dados.
+
+<h2>5- Analise os relatórios e tome decisões mais precisas</h2>
+
+Depois que o relatório finalmente estiver criado, é o momento de usar efetivamente os dados que estão contidos no documento. Para isso, é necessário analisar minuciosamente os relatórios de viagem, conferindo número por número e buscando oportunidades para reduzir custos.
+
+No momento de tomada de decisões estratégicas que envolvam as despesas corporativas, consulte sempre os relatórios, assim, as decisões serão embasadas por números precisos, e não por meras estimativas.
+
+Gostou desse conteúdo e está pronto (a) para revolucionar a gestão de despesas corporativas de seu negócio? <a href="../index.html/#Contato">Fale conosco e agende uma demonstração</a>!
